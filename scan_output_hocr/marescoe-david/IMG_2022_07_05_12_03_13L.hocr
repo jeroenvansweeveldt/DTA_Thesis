@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract v5.1.0.20220510' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "C:\Users\Jeroen\Documents\Universiteit\Stage\scan_input\IMG_2022_07_05_12_03_13L.jpg"; bbox 0 0 1481 2568; ppageno 0; scan_res 340 340'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 152 152 980 184">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 152 152 980 184">
+     <span class='ocr_header' id='line_1_1' title="bbox 152 152 980 184; baseline -0.001 -4; x_size 32; x_descenders 5; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_1' title='bbox 152 163 195 180; x_wconf 95'>210</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 488 153 534 180; x_wconf 93'>The</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 544 152 741 180; x_wconf 92'>Marescoe-David</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 750 154 838 184; x_wconf 93'>Letters,</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 852 154 980 179; x_wconf 88'>1668—1680</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 152 317 763 353">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 152 317 763 353">
+     <span class='ocr_line' id='line_1_2' title="bbox 152 317 763 353; baseline -0.008 -5; x_size 35; x_descenders 8; x_ascenders 10">
+      <span class='ocrx_word' id='word_1_6' title='bbox 152 323 180 348; x_wconf 90'>C.</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 197 323 282 348; x_wconf 96'>Letters</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 292 328 317 347; x_wconf 96'>to</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 326 322 430 347; x_wconf 93'>Leonora</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 441 322 560 346; x_wconf 92'>Marescoe</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 571 322 587 344; x_wconf 93'>&amp;</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 598 317 672 353; x_wconf 96'>Jacob</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 684 317 763 344; x_wconf 96'>David</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_photo' id='block_1_3' title="bbox 0 1648 240 2568"></div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 914 222 976 445">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 914 222 976 445">
+     <span class='ocr_line' id='line_1_3' title="bbox 914 222 972 250; baseline 0 0; x_size 31.125; x_descenders 5.875; x_ascenders 6.5">
+      <span class='ocrx_word' id='word_1_14' title='bbox 914 222 972 250; x_wconf 96'>1675</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 915 262 974 290; baseline 0.017 -6; x_size 28; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_15' title='bbox 915 262 974 290; x_wconf 96'>1676</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 915 301 975 330; baseline 0 0; x_size 35; x_descenders 6; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_16' title='bbox 915 301 975 330; x_wconf 95'>1677</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 916 341 974 369; baseline 0 -5; x_size 28; x_descenders 5; x_ascenders 7">
+      <span class='ocrx_word' id='word_1_17' title='bbox 916 341 974 369; x_wconf 96'>1678</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 915 382 975 410; baseline -0.017 0; x_size 34; x_descenders 6; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_18' title='bbox 915 382 975 410; x_wconf 96'>1679</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 916 422 976 445; baseline -0.017 0; x_size 28.639999; x_descenders 5.6399999; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_19' title='bbox 916 422 976 445; x_wconf 95'>1680</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1086 219 1206 449">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 1086 219 1206 449">
+     <span class='ocr_line' id='line_1_9' title="bbox 1086 219 1204 243; baseline -0.008 0; x_size 28.015326; x_descenders 5.015326; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_20' title='bbox 1086 219 1204 243; x_wconf 82'>222-266</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 1086 260 1203 289; baseline 0 -6; x_size 28.310345; x_descenders 5.3103452; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_21' title='bbox 1086 260 1203 289; x_wconf 80'>267-325</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 1087 299 1204 329; baseline -0.009 0; x_size 29.767857; x_descenders 5.5; x_ascenders 5.625">
+      <span class='ocrx_word' id='word_1_22' title='bbox 1087 299 1204 329; x_wconf 91'>326-379</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 1088 339 1205 368; baseline 0 -5; x_size 29.605364; x_descenders 5.6053643; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_23' title='bbox 1088 339 1205 368; x_wconf 24'>380-430</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 1087 385 1205 408; baseline 0 0; x_size 29.767857; x_descenders 5.5; x_ascenders 5.625">
+      <span class='ocrx_word' id='word_1_24' title='bbox 1087 385 1205 408; x_wconf 15'>431-470</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 1088 419 1206 449; baseline -0.008 -6; x_size 28.310345; x_descenders 5.3103452; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_25' title='bbox 1088 419 1206 449; x_wconf 28'>471-480</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
