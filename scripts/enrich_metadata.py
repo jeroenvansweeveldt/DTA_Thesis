@@ -11,7 +11,7 @@ def load_file(input_df, sheet_name):
 
     'SENDER_BIRTH_YEAR'
     'ADDRESSEE_BIRTH_YEAR'
-    'YEAR' or, alternatively, 'YEAR_OF_WRITING'
+    'YEAR',
     'SENDER_CLEANED' or, alternatively, 'SENDER'
     'ADDRESSEE_CLEANED', or, alternatively, 'ADDRESSEE'
 
@@ -31,7 +31,7 @@ def load_file(input_df, sheet_name):
                             "ADDRESSEE_CLEANED"]
         for column in required_columns:
             if column not in df.columns:
-                if column == "YEAR" and "YEAR_OF_WRITING" in df.columns:
+                if column == "YEAR" in df.columns:
                     continue
                 elif column == "SENDER_CLEANED" and "SENDER" in df.columns:
                     continue
@@ -169,7 +169,7 @@ def older_correspondent(df, col_a: str, col_b: str) -> pd.DataFrame:
     df["SENDER_IS_OLDER"], df["ADDRESSEE_IS_OLDER"] = sen_older_labels, add_older_labels
     return df
 
-def addressee_over_40(df, col_a: str, col_b: str) -> pd.DataFrame:
+def addressee_over_40(df, col_a: int, col_b: str) -> pd.DataFrame:
     """
     Calculates whether the addressee is older than 40 years.
 
@@ -192,6 +192,8 @@ def addressee_over_40(df, col_a: str, col_b: str) -> pd.DataFrame:
                 mid_age = "UNK"
             elif addressee_year in ["MULT"]:
                 mid_age = "MULT"
+            elif isinstance(letter_year, str):
+                mid_age = "UNK"
             else:
                 difference = abs(letter_year - addressee_year)
                 if difference >= 40:
@@ -228,6 +230,8 @@ def sender_over_40(df, col_a: str, col_b: str) -> pd.DataFrame:
                 mid_age = "UNK"
             elif sender_year in ["MULT"]:
                 mid_age = "MULT"
+            elif isinstance(letter_year, str):
+                mid_age = "UNK"
             else:
                 difference = abs(letter_year - sender_year)
                 if difference >= 40:
@@ -239,6 +243,34 @@ def sender_over_40(df, col_a: str, col_b: str) -> pd.DataFrame:
             age_labels.append(None)
 
     df["SENDER_OVER_40"] = age_labels
+    return df
+
+def genders(df, col_a: str, col_b: str) -> pd.DataFrame:
+    """
+    Pairs the gender of both correspondents together.
+
+    Arguments:
+        df (pd.DataFrame): the data frame you want to pass through this function.
+        col_a (str): select the column containing the genders of the senders.
+        col_b (str): select the column containing the genders of the addressees.
+
+    Returns:
+        pd.DataFrame: an updated data frame with the added column "GENDER_PAIR",
+        that pairs the sender and addressee names together.
+    """
+    genders = []
+
+    for index, row in df.iterrows():
+        gender_send = row[col_a]
+        gender_add = row[col_b]
+
+        if pd.notna(gender_send) and pd.notna(gender_add):
+            pair = f'"{gender_send}", "{gender_add}"'
+            genders.append(pair)
+        else:
+            genders.append(None)
+    
+    df["GENDER_PAIR"] = genders
     return df
 
 def pairs(df, col_a: str, col_b: str) -> pd.DataFrame:
@@ -287,14 +319,12 @@ def apply_functions(df) -> pd.DataFrame:
     else:
         print("Column 'SENDER_IS_OLDER' already exists.")
     if "SENDER_OVER_40" not in df.columns:
-        df = sender_over_40(df, "YEAR" if "YEAR" in df.columns else "YEAR_OF_WRITING",
-                               "SENDER_BIRTH_YEAR")
+        df = sender_over_40(df, "YEAR", "SENDER_BIRTH_YEAR")
         print("Column 'SENDER_OVER_40' added to data frame.")
     else:
         print("Column 'SENDER_OVER_40' already exists.")
     if "ADDRESSEE_OVER_40" not in df.columns:
-        df = addressee_over_40(df, "YEAR" if "YEAR" in df.columns else "YEAR_OF_WRITING",
-                                  "ADDRESSEE_BIRTH_YEAR")
+        df = addressee_over_40(df, "YEAR", "ADDRESSEE_BIRTH_YEAR")
         print("Column 'ADDRESSEE_OVER_40' added to data frame.")
     else:
         print("Column 'ADDRESSEE_OVER_40' already exists.")
@@ -309,11 +339,16 @@ def apply_functions(df) -> pd.DataFrame:
     else:
         print("Column 'AGE_GAP_OVER_20' already exists.")
     if "SENDER-ADDRESSEE_PAIR" not in df.columns:
-        df = pairs(df, "SENDER_CLEANED" if "SENDER_CLEANED" in df.columns else "SENDER",
-                      "ADDRESSEE_CLEANED" if "ADDRESSEE_CLEANED" in df.columns else "ADDRESSEE")
+        df = pairs(df, "SENDER_CLEANED", "ADDRESSEE_CLEANED")
         print("Column 'SENDER-ADDRESSEE_PAIR' added to data frame.")
     else:
         print("SENDER-ADDRESSEE_PAIR already exists.")
+    if "GENDER_PAIRS" not in df.columns:
+        df = genders(df, "GENDER_SENDER", "GENDER_ADDRESSEE")
+        print("Column 'GENDER_PAIR added to data frame.")
+    else:
+        print("SENDER-ADDRESSEE_PAIR already exists.")
+        
     return df
 
 def save_file(output_df):

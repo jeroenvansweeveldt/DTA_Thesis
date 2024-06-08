@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title/>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
+<meta content="tesseract v5.1.0.20220510" name="ocr-system"/>
+<meta content="ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf" name="ocr-capabilities"/>
+</head>
+<body>
+<div class="ocr_page" id="page_1" page_number="424" title='image "C:\Users\Jeroen\Documents\Universiteit\Stage\scan_input\IMG_2022_07_05_15_28_30L.jpg"; bbox 0 0 1591 2541; ppageno 0; scan_res 340 340'>
+<div class="ocr_photo" id="block_1_1" title="bbox 0 0 162 180"/>
+<div class="ocr_carea" id="block_1_2" title="bbox 133 538 178 561">
+
+</div>
+<div class="ocr_carea" id="block_1_3" title="bbox 109 1942 153 1965">
+
+</div>
+<div class="ocr_carea" id="block_1_4" title="bbox 223 156 1460 371">
+<p class="ocr_par" id="par_1_3" lang="eng" title="bbox 228 156 1084 189" xml:lang="eng">
+<span annotation="HEADER" class="ocr_line" id="line_1_3" line="None" title="bbox 228 156 1084 189; baseline -0.005 -4; x_size 28; x_descenders 5; x_ascenders 8">
+<span class="ocrx_word" id="word_1_3" title="bbox 228 168 273 189; x_wconf 96">424</span>
+<span class="ocrx_word" id="word_1_4" title="bbox 575 159 621 184; x_wconf 90">The</span>
+<span class="ocrx_word" id="word_1_5" title="bbox 633 156 839 183; x_wconf 90">Marescoe-David</span>
+<span class="ocrx_word" id="word_1_6" title="bbox 850 159 939 185; x_wconf 93">Letters,</span>
+<span class="ocrx_word" id="word_1_7" title="bbox 956 159 1084 182; x_wconf 86">1668—1680</span>
+</span>
+</p>
+<p class="ocr_par" id="par_1_4" lang="eng" title="bbox 223 225 1460 371" xml:lang="eng">
+<span annotation="FRENCH" class="ocr_line" id="line_1_4" id_correction="nan" line="Rochelle et Nantes, pour lesquels licux l’on affrette nombre de vaisseaux a Amsterdam," line_correction="Rochelle et Nantes, pour lesquels lieux l’on affrette nombre de vaisseaux a Amsterdam," title="bbox 227 225 1458 260; baseline 0.002 -10; x_size 30; x_descenders 4; x_ascenders 11">
+<span class="ocrx_word" id="word_1_8" title="bbox 227 225 339 251; x_wconf 96">Rochelle</span>
+<span class="ocrx_word" id="word_1_9" title="bbox 354 234 376 251; x_wconf 96">et</span>
+<span class="ocrx_word" id="word_1_10" title="bbox 393 229 489 255; x_wconf 96">Nantes,</span>
+<span class="ocrx_word" id="word_1_11" title="bbox 506 236 567 260; x_wconf 93">pour</span>
+<span class="ocrx_word" id="word_1_12" title="bbox 582 226 681 260; x_wconf 93">lesquels</span>
+<span class="ocrx_word" id="word_1_13" title="bbox 696 226 759 251; x_wconf 89">licux</span>
+<span class="ocrx_word" id="word_1_14" title="bbox 775 226 825 250; x_wconf 59">l’on</span>
+<span class="ocrx_word" id="word_1_15" title="bbox 841 226 934 251; x_wconf 92">affrette</span>
+<span class="ocrx_word" id="word_1_16" title="bbox 951 227 1056 252; x_wconf 96">nombre</span>
+<span class="ocrx_word" id="word_1_17" title="bbox 1072 227 1102 252; x_wconf 93">de</span>
+<span class="ocrx_word" id="word_1_18" title="bbox 1119 229 1243 252; x_wconf 92">vaisseaux</span>
+<span class="ocrx_word" id="word_1_19" title="bbox 1260 238 1272 252; x_wconf 96">a</span>
+<span class="ocrx_word" id="word_1_20" title="bbox 1290 227 1458 257; x_wconf 96">Amsterdam,</span>
+</span>
+<span annotation="MULTI" class="ocr_line" id="line_1_5" id_correction="nan" line="Rotterdam et Londres. Quand vous plaira faire la mesme chose lors que vos changes seront" line_correction="Rotterdam et Londres.=Quand vous plaira faire la mesme chose lors que vos changes seront" title="bbox 226 264 1460 301; baseline 0.002 -12; x_size 34; x_descenders 9; x_ascenders 10">
+<span class="ocrx_word" id="word_1_21" title="bbox 226 264 365 290; x_wconf 96">Rotterdam</span>
+<span class="ocrx_word" id="word_1_22" title="bbox 378 274 400 290; x_wconf 96">et</span>
+<span class="ocrx_word" id="word_1_23" title="bbox 412 265 522 290; x_wconf 96">Londres.</span>
+<span class="ocrx_word" id="word_1_24" title="bbox 535 265 625 296; x_wconf 96">Quand</span>
+<span class="ocrx_word" id="word_1_25" title="bbox 637 274 697 290; x_wconf 93">vous</span>
+<span class="ocrx_word" id="word_1_26" title="bbox 709 264 780 298; x_wconf 93">plaira</span>
+<span class="ocrx_word" id="word_1_27" title="bbox 794 264 850 290; x_wconf 95">faire</span>
+<span class="ocrx_word" id="word_1_28" title="bbox 862 265 882 289; x_wconf 93">la</span>
+<span class="ocrx_word" id="word_1_29" title="bbox 894 275 987 290; x_wconf 93">mesme</span>
+<span class="ocrx_word" id="word_1_30" title="bbox 999 266 1072 291; x_wconf 96">chose</span>
+<span class="ocrx_word" id="word_1_31" title="bbox 1084 266 1131 291; x_wconf 96">lors</span>
+<span class="ocrx_word" id="word_1_32" title="bbox 1143 276 1191 301; x_wconf 96">que</span>
+<span class="ocrx_word" id="word_1_33" title="bbox 1203 276 1247 291; x_wconf 96">vos</span>
+<span class="ocrx_word" id="word_1_34" title="bbox 1259 266 1365 300; x_wconf 93">changes</span>
+<span class="ocrx_word" id="word_1_35" title="bbox 1377 276 1460 292; x_wconf 92">seront</span>
+</span>
+<span annotation="SIGN-OFF" class="ocr_line" id="line_1_6" id_correction="nan" line="hauts chez vous uzer en avec toute liberte et pour telle somme qu'il vous plaira, car je suis" line_correction="nan" title="bbox 224 302 1459 339; baseline 0.002 -11; x_size 29; x_descenders 4; x_ascenders 10">
+<span class="ocrx_word" id="word_1_36" title="bbox 224 302 291 327; x_wconf 93">hauts</span>
+<span class="ocrx_word" id="word_1_37" title="bbox 303 304 359 328; x_wconf 96">chez</span>
+<span class="ocrx_word" id="word_1_38" title="bbox 371 314 430 329; x_wconf 93">vous</span>
+<span class="ocrx_word" id="word_1_39" title="bbox 443 314 497 329; x_wconf 93">uzer</span>
+<span class="ocrx_word" id="word_1_40" title="bbox 508 315 536 329; x_wconf 96">en</span>
+<span class="ocrx_word" id="word_1_41" title="bbox 549 314 607 329; x_wconf 96">avec</span>
+<span class="ocrx_word" id="word_1_42" title="bbox 619 312 686 329; x_wconf 93">toute</span>
+<span class="ocrx_word" id="word_1_43" title="bbox 698 303 782 328; x_wconf 92">liberte</span>
+<span class="ocrx_word" id="word_1_44" title="bbox 794 311 816 328; x_wconf 65">et</span>
+<span class="ocrx_word" id="word_1_45" title="bbox 829 313 892 337; x_wconf 93">pour</span>
+<span class="ocrx_word" id="word_1_46" title="bbox 905 304 958 329; x_wconf 92">telle</span>
+<span class="ocrx_word" id="word_1_47" title="bbox 971 315 1069 330; x_wconf 92">somme</span>
+<span class="ocrx_word" id="word_1_48" title="bbox 1081 305 1141 339; x_wconf 41">qu'il</span>
+<span class="ocrx_word" id="word_1_49" title="bbox 1154 315 1217 330; x_wconf 93">vous</span>
+<span class="ocrx_word" id="word_1_50" title="bbox 1230 305 1313 339; x_wconf 92">plaira,</span>
+<span class="ocrx_word" id="word_1_51" title="bbox 1327 315 1366 330; x_wconf 96">car</span>
+<span class="ocrx_word" id="word_1_52" title="bbox 1373 308 1400 339; x_wconf 96">je</span>
+<span class="ocrx_word" id="word_1_53" title="bbox 1412 309 1459 332; x_wconf 96">suis</span>
+</span>
+<span annotation="SIGN-OFF" class="ocr_line" id="line_1_7" id_correction="nan" line="asseurement, Monsicur, votre tres humble serviteur.’" line_correction="asseurement, Monsieur, votre tres humble serviteur.’" title="bbox 223 341 933 371; baseline 0.004 -6; x_size 26; x_descenders 4; x_ascenders 8">
+<span class="ocrx_word" id="word_1_54" title="bbox 223 351 388 370; x_wconf 28">asseurement,</span>
+<span class="ocrx_word" id="word_1_55" title="bbox 402 345 534 371; x_wconf 89">Monsicur,</span>
+<span class="ocrx_word" id="word_1_56" title="bbox 548 351 616 367; x_wconf 96">votre</span>
+<span class="ocrx_word" id="word_1_57" title="bbox 629 351 674 367; x_wconf 96">tres</span>
+<span class="ocrx_word" id="word_1_58" title="bbox 687 341 787 367; x_wconf 93">humble</span>
+<span class="ocrx_word" id="word_1_59" title="bbox 800 342 933 368; x_wconf 77">serviteur.’</span>
+</span>
+</p>
+</div>
+<div class="ocr_carea" id="block_1_5" title="bbox 217 469 1459 569">
+<p class="ocr_par" id="par_1_5" lang="eng" title="bbox 217 469 1459 569" xml:lang="eng">
+<span annotation="DATE_OF_ARRIVAL" class="ocr_line" id="line_1_8" id_correction="nan" line="9 Sep." line_correction="9 Sep. 1676" title="bbox 1331 469 1403 499; baseline 0.014 -10; x_size 24; x_descenders 4; x_ascenders 8">
+<span class="ocrx_word" id="word_1_60" title="bbox 1331 474 1343 493; x_wconf 94">9</span>
+<span class="ocrx_word" id="word_1_61" title="bbox 1355 469 1403 499; x_wconf 96">Sep.</span>
+</span>
+<span annotation="DATE_OF_REPLY" class="ocr_line" id="line_1_9" id_correction="nan" line="18 Sep.1°76" line_correction="18 Sep. 1676" title="bbox 1320 488 1459 533; baseline 0.014 -9; x_size 28; x_descenders 8; x_ascenders 6">
+<span class="ocrx_word" id="word_1_62" title="bbox 1320 506 1344 525; x_wconf 94">18</span>
+<span class="ocrx_word" id="word_1_63" title="bbox 1353 488 1459 533; x_wconf 24">Sep.1°76</span>
+</span>
+<span annotation="TITLE" class="ocr_line" id="line_1_10" id_correction="nan" line="PIERRE LEGENDRE to JD" line_correction="nan" title="bbox 217 546 559 569; baseline 0.003 -7; x_size 29.25; x_descenders 8.25; x_ascenders 6.75">
+<span class="ocrx_word" id="word_1_64" title="bbox 217 547 307 562; x_wconf 93">PIERRE</span>
+<span class="ocrx_word" id="word_1_65" title="bbox 327 546 466 563; x_wconf 91">LEGENDRE</span>
+<span class="ocrx_word" id="word_1_66" title="bbox 485 546 509 563; x_wconf 96">to</span>
+<span class="ocrx_word" id="word_1_67" title="bbox 526 546 559 569; x_wconf 96">JD</span>
+</span>
+</p><p class="ocr_par" id="par_1_1" lang="eng" title="bbox 133 538 178 561" xml:lang="eng">
+<span annotation="ID" class="ocr_line" id="line_1_1" id_correction="line_1_9.b" line="304" line_correction="nan" title="bbox 133 538 178 561; baseline 0.022 -1; x_size 31; x_descenders 7.75; x_ascenders 7.75">
+<span class="ocrx_word" id="word_1_1" title="bbox 133 538 178 561; x_wconf 96">304</span>
+</span>
+</p>
+</div>
+<div class="ocr_carea" id="block_1_6" title="bbox 217 584 1457 612">
+<p class="ocr_par" id="par_1_6" lang="eng" title="bbox 217 584 1457 612" xml:lang="eng">
+<span annotation="DATELINE" class="ocr_line" id="line_1_11" id_correction="nan" line="ROUEN I5 SEPTEMBER 1676" line_correction="ROUEN 15 SEPTEMBER 1676" title="bbox 217 584 1457 612; baseline 0.003 -11; x_size 29; x_descenders 9; x_ascenders 5">
+<span class="ocrx_word" id="word_1_68" title="bbox 217 585 309 601; x_wconf 96">ROUEN</span>
+<span class="ocrx_word" id="word_1_69" title="bbox 1199 587 1223 608; x_wconf 82">I5</span>
+<span class="ocrx_word" id="word_1_70" title="bbox 1239 586 1380 604; x_wconf 96">SEPTEMBER</span>
+<span class="ocrx_word" id="word_1_71" title="bbox 1397 584 1457 612; x_wconf 96">1676</span>
+</span>
+</p>
+</div>
+<div class="ocr_carea" id="block_1_7" title="bbox 197 653 1457 1725">
+<p class="ocr_par" id="par_1_7" lang="eng" title="bbox 197 653 1457 1725" xml:lang="eng">
+<span annotation="FRENCH" class="ocr_line" id="line_1_12" id_correction="nan" line="‘Mon pere s’est resolu d’envoyer mon frere aprendre la langue avant que de le mettre dans" line_correction="nan" title="bbox 215 653 1457 690; baseline 0.004 -10; x_size 34; x_descenders 8; x_ascenders 11">
+<span class="ocrx_word" id="word_1_72" title="bbox 215 655 284 680; x_wconf 81">‘Mon</span>
+<span class="ocrx_word" id="word_1_73" title="bbox 297 665 351 689; x_wconf 93">pere</span>
+<span class="ocrx_word" id="word_1_74" title="bbox 363 655 415 680; x_wconf 90">s’est</span>
+<span class="ocrx_word" id="word_1_75" title="bbox 426 655 503 680; x_wconf 93">resolu</span>
+<span class="ocrx_word" id="word_1_76" title="bbox 515 654 649 688; x_wconf 80">d’envoyer</span>
+<span class="ocrx_word" id="word_1_77" title="bbox 661 665 721 679; x_wconf 92">mon</span>
+<span class="ocrx_word" id="word_1_78" title="bbox 735 653 795 679; x_wconf 92">frere</span>
+<span class="ocrx_word" id="word_1_79" title="bbox 806 654 925 688; x_wconf 92">aprendre</span>
+<span class="ocrx_word" id="word_1_80" title="bbox 938 654 958 680; x_wconf 93">la</span>
+<span class="ocrx_word" id="word_1_81" title="bbox 971 655 1060 689; x_wconf 96">langue</span>
+<span class="ocrx_word" id="word_1_82" title="bbox 1072 665 1146 681; x_wconf 96">avant</span>
+<span class="ocrx_word" id="word_1_83" title="bbox 1158 666 1206 690; x_wconf 96">que</span>
+<span class="ocrx_word" id="word_1_84" title="bbox 1218 656 1249 682; x_wconf 95">de</span>
+<span class="ocrx_word" id="word_1_85" title="bbox 1261 657 1283 683; x_wconf 95">le</span>
+<span class="ocrx_word" id="word_1_86" title="bbox 1295 666 1386 684; x_wconf 96">mettre</span>
+<span class="ocrx_word" id="word_1_87" title="bbox 1398 659 1457 686; x_wconf 96">dans</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_13" id_correction="nan" line="votre contoir. Je vous seray tousjours oblige des soins que vous avez prit et je voudrois bien les" line_correction="nan" title="bbox 213 692 1457 729; baseline 0.005 -10; x_size 34; x_descenders 8; x_ascenders 11">
+<span class="ocrx_word" id="word_1_88" title="bbox 213 702 281 720; x_wconf 93">votre</span>
+<span class="ocrx_word" id="word_1_89" title="bbox 289 697 422 729; x_wconf 92">contoir.</span>
+<span class="ocrx_word" id="word_1_90" title="bbox 400 688 427 733; x_wconf 94">Je</span>
+<span class="ocrx_word" id="word_1_91" title="bbox 431 705 491 719; x_wconf 88">vous</span>
+<span class="ocrx_word" id="word_1_92" title="bbox 499 704 565 729; x_wconf 88">seray</span>
+<span class="ocrx_word" id="word_1_93" title="bbox 574 696 694 728; x_wconf 91">tousjours</span>
+<span class="ocrx_word" id="word_1_94" title="bbox 702 693 784 727; x_wconf 96">oblige</span>
+<span class="ocrx_word" id="word_1_95" title="bbox 793 692 833 718; x_wconf 96">des</span>
+<span class="ocrx_word" id="word_1_96" title="bbox 841 695 905 719; x_wconf 96">soins</span>
+<span class="ocrx_word" id="word_1_97" title="bbox 914 704 962 728; x_wconf 96">que</span>
+<span class="ocrx_word" id="word_1_98" title="bbox 971 705 1033 720; x_wconf 96">vous</span>
+<span class="ocrx_word" id="word_1_99" title="bbox 1042 706 1101 720; x_wconf 93">avez</span>
+<span class="ocrx_word" id="word_1_100" title="bbox 1110 697 1158 729; x_wconf 92">prit</span>
+<span class="ocrx_word" id="word_1_101" title="bbox 1169 704 1190 721; x_wconf 87">et</span>
+<span class="ocrx_word" id="word_1_102" title="bbox 1202 697 1220 729; x_wconf 87">je</span>
+<span class="ocrx_word" id="word_1_103" title="bbox 1229 696 1350 723; x_wconf 92">voudrois</span>
+<span class="ocrx_word" id="word_1_104" title="bbox 1358 697 1415 724; x_wconf 96">bien</span>
+<span class="ocrx_word" id="word_1_105" title="bbox 1424 699 1457 726; x_wconf 96">les</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_14" id_correction="nan" line="pouvoir recognoistre par quelque bonne occasion. Il s’en presente me si vous vouliez y" line_correction="nan" title="bbox 212 733 1456 774; baseline 0.004 -15; x_size 33; x_descenders 8; x_ascenders 10">
+<span class="ocrx_word" id="word_1_106" title="bbox 212 736 316 767; x_wconf 93">pouvoir</span>
+<span class="ocrx_word" id="word_1_107" title="bbox 331 736 493 768; x_wconf 90">recognoistre</span>
+<span class="ocrx_word" id="word_1_108" title="bbox 510 744 551 768; x_wconf 95">par</span>
+<span class="ocrx_word" id="word_1_109" title="bbox 567 733 671 768; x_wconf 95">quelque</span>
+<span class="ocrx_word" id="word_1_110" title="bbox 687 733 770 758; x_wconf 96">bonne</span>
+<span class="ocrx_word" id="word_1_111" title="bbox 785 735 906 758; x_wconf 95">occasion.</span>
+<span class="ocrx_word" id="word_1_112" title="bbox 925 733 941 758; x_wconf 89">Il</span>
+<span class="ocrx_word" id="word_1_113" title="bbox 958 733 1007 759; x_wconf 82">s’en</span>
+<span class="ocrx_word" id="word_1_114" title="bbox 1025 744 1136 768; x_wconf 96">presente</span>
+<span class="ocrx_word" id="word_1_115" title="bbox 1153 746 1194 760; x_wconf 96">me</span>
+<span class="ocrx_word" id="word_1_116" title="bbox 1211 737 1228 760; x_wconf 96">si</span>
+<span class="ocrx_word" id="word_1_117" title="bbox 1246 746 1309 762; x_wconf 93">vous</span>
+<span class="ocrx_word" id="word_1_118" title="bbox 1325 737 1425 764; x_wconf 90">vouliez</span>
+<span class="ocrx_word" id="word_1_119" title="bbox 1441 751 1456 774; x_wconf 90">y</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_15" id_correction="nan" line="entendre qui est de faire venir des poudres a canon en France, mais sur tout il faut garder le" line_correction="nan" title="bbox 211 772 1456 811; baseline 0.005 -13; x_size 34; x_descenders 9; x_ascenders 10">
+<span class="ocrx_word" id="word_1_120" title="bbox 211 773 324 799; x_wconf 93">entendre</span>
+<span class="ocrx_word" id="word_1_121" title="bbox 335 775 375 807; x_wconf 96">qui</span>
+<span class="ocrx_word" id="word_1_122" title="bbox 387 782 419 799; x_wconf 96">est</span>
+<span class="ocrx_word" id="word_1_123" title="bbox 431 773 460 799; x_wconf 93">de</span>
+<span class="ocrx_word" id="word_1_124" title="bbox 472 773 528 799; x_wconf 93">faire</span>
+<span class="ocrx_word" id="word_1_125" title="bbox 540 775 607 799; x_wconf 96">venir</span>
+<span class="ocrx_word" id="word_1_126" title="bbox 618 773 658 798; x_wconf 93">des</span>
+<span class="ocrx_word" id="word_1_127" title="bbox 670 772 775 807; x_wconf 93">poudres</span>
+<span class="ocrx_word" id="word_1_128" title="bbox 786 782 797 797; x_wconf 96">a</span>
+<span class="ocrx_word" id="word_1_129" title="bbox 809 782 888 797; x_wconf 96">canon</span>
+<span class="ocrx_word" id="word_1_130" title="bbox 900 783 929 797; x_wconf 96">en</span>
+<span class="ocrx_word" id="word_1_131" title="bbox 943 776 1039 803; x_wconf 96">France,</span>
+<span class="ocrx_word" id="word_1_132" title="bbox 1053 777 1113 800; x_wconf 96">mais</span>
+<span class="ocrx_word" id="word_1_133" title="bbox 1125 785 1165 800; x_wconf 96">sur</span>
+<span class="ocrx_word" id="word_1_134" title="bbox 1177 784 1232 800; x_wconf 96">tout</span>
+<span class="ocrx_word" id="word_1_135" title="bbox 1244 776 1259 800; x_wconf 96">il</span>
+<span class="ocrx_word" id="word_1_136" title="bbox 1272 776 1324 801; x_wconf 93">faut</span>
+<span class="ocrx_word" id="word_1_137" title="bbox 1336 778 1424 811; x_wconf 93">garder</span>
+<span class="ocrx_word" id="word_1_138" title="bbox 1435 779 1456 805; x_wconf 96">le</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_16" id_correction="nan" line="secret de ce que je vous escrit jusques a ce que les choses reussissent, alors il n’a pas tant de" line_correction="nan" title="bbox 209 811 1456 850; baseline 0.006 -13; x_size 29; x_descenders 4; x_ascenders 9">
+<span class="ocrx_word" id="word_1_139" title="bbox 209 820 282 838; x_wconf 95">secret</span>
+<span class="ocrx_word" id="word_1_140" title="bbox 294 812 323 838; x_wconf 95">de</span>
+<span class="ocrx_word" id="word_1_141" title="bbox 335 822 361 838; x_wconf 95">ce</span>
+<span class="ocrx_word" id="word_1_142" title="bbox 373 815 452 847; x_wconf 97">que</span>
+<span class="ocrx_word" id="word_1_143" title="bbox 425 807 451 851; x_wconf 96">je</span>
+<span class="ocrx_word" id="word_1_144" title="bbox 465 822 524 838; x_wconf 93">vous</span>
+<span class="ocrx_word" id="word_1_145" title="bbox 531 807 605 851; x_wconf 92">escrit</span>
+<span class="ocrx_word" id="word_1_146" title="bbox 619 814 711 846; x_wconf 92">jusques</span>
+<span class="ocrx_word" id="word_1_147" title="bbox 724 821 736 836; x_wconf 94">a</span>
+<span class="ocrx_word" id="word_1_148" title="bbox 749 821 775 837; x_wconf 94">ce</span>
+<span class="ocrx_word" id="word_1_149" title="bbox 787 821 835 845; x_wconf 96">que</span>
+<span class="ocrx_word" id="word_1_150" title="bbox 848 811 879 837; x_wconf 96">les</span>
+<span class="ocrx_word" id="word_1_151" title="bbox 892 812 976 837; x_wconf 93">choses</span>
+<span class="ocrx_word" id="word_1_152" title="bbox 989 816 1136 842; x_wconf 92">reussissent,</span>
+<span class="ocrx_word" id="word_1_153" title="bbox 1149 814 1213 839; x_wconf 96">alors</span>
+<span class="ocrx_word" id="word_1_154" title="bbox 1226 815 1241 839; x_wconf 91">il</span>
+<span class="ocrx_word" id="word_1_155" title="bbox 1255 815 1294 840; x_wconf 91">n’a</span>
+<span class="ocrx_word" id="word_1_156" title="bbox 1307 825 1349 850; x_wconf 96">pas</span>
+<span class="ocrx_word" id="word_1_157" title="bbox 1362 825 1414 843; x_wconf 96">tant</span>
+<span class="ocrx_word" id="word_1_158" title="bbox 1426 819 1456 844; x_wconf 96">de</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_17" id_correction="nan" line="precautions a prendre. I] me semble que les bonnes poudres a canon se font a au Neufchastel," line_correction="precautions a prendre. Il me semble que les bonnes poudres a canon se font a au Neufchastel," title="bbox 209 850 1455 889; baseline 0.006 -12; x_size 33; x_descenders 7; x_ascenders 10">
+<span class="ocrx_word" id="word_1_159" title="bbox 209 854 359 886; x_wconf 95">precautions</span>
+<span class="ocrx_word" id="word_1_160" title="bbox 368 863 379 877; x_wconf 95">a</span>
+<span class="ocrx_word" id="word_1_161" title="bbox 390 852 499 886; x_wconf 96">prendre.</span>
+<span class="ocrx_word" id="word_1_162" title="bbox 511 852 526 877; x_wconf 65">I]</span>
+<span class="ocrx_word" id="word_1_163" title="bbox 537 861 577 877; x_wconf 96">me</span>
+<span class="ocrx_word" id="word_1_164" title="bbox 586 851 678 877; x_wconf 96">semble</span>
+<span class="ocrx_word" id="word_1_165" title="bbox 688 861 735 885; x_wconf 95">que</span>
+<span class="ocrx_word" id="word_1_166" title="bbox 745 850 776 876; x_wconf 96">les</span>
+<span class="ocrx_word" id="word_1_167" title="bbox 786 850 880 877; x_wconf 93">bonnes</span>
+<span class="ocrx_word" id="word_1_168" title="bbox 890 852 997 885; x_wconf 92">poudres</span>
+<span class="ocrx_word" id="word_1_169" title="bbox 1007 863 1019 878; x_wconf 96">a</span>
+<span class="ocrx_word" id="word_1_170" title="bbox 1030 863 1110 879; x_wconf 96">canon</span>
+<span class="ocrx_word" id="word_1_171" title="bbox 1121 863 1144 879; x_wconf 96">se</span>
+<span class="ocrx_word" id="word_1_172" title="bbox 1156 854 1211 880; x_wconf 92">font</span>
+<span class="ocrx_word" id="word_1_173" title="bbox 1227 864 1233 880; x_wconf 92">a</span>
+<span class="ocrx_word" id="word_1_174" title="bbox 1243 864 1274 880; x_wconf 93">au</span>
+<span class="ocrx_word" id="word_1_175" title="bbox 1285 856 1455 889; x_wconf 90">Neufchastel,</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_18" id_correction="nan" line="et qu’elle se donnent a tres bon marche. C’est ce qu’il faudroit que vous secussiez exactement," line_correction="nan" title="bbox 208 890 1455 929; baseline 0.006 -12; x_size 30; x_descenders 4; x_ascenders 10">
+<span class="ocrx_word" id="word_1_176" title="bbox 208 901 230 917; x_wconf 93">et</span>
+<span class="ocrx_word" id="word_1_177" title="bbox 239 891 325 926; x_wconf 86">qu’elle</span>
+<span class="ocrx_word" id="word_1_178" title="bbox 333 902 356 917; x_wconf 91">se</span>
+<span class="ocrx_word" id="word_1_179" title="bbox 364 891 474 917; x_wconf 76">donnent</span>
+<span class="ocrx_word" id="word_1_180" title="bbox 482 902 494 917; x_wconf 76">a</span>
+<span class="ocrx_word" id="word_1_181" title="bbox 504 901 548 917; x_wconf 96">tres</span>
+<span class="ocrx_word" id="word_1_182" title="bbox 558 891 607 917; x_wconf 96">bon</span>
+<span class="ocrx_word" id="word_1_183" title="bbox 617 890 723 916; x_wconf 93">marche.</span>
+<span class="ocrx_word" id="word_1_184" title="bbox 734 890 801 916; x_wconf 82">C’est</span>
+<span class="ocrx_word" id="word_1_185" title="bbox 810 900 836 916; x_wconf 93">ce</span>
+<span class="ocrx_word" id="word_1_186" title="bbox 846 890 904 925; x_wconf 84">qu’il</span>
+<span class="ocrx_word" id="word_1_187" title="bbox 916 891 1025 917; x_wconf 91">faudroit</span>
+<span class="ocrx_word" id="word_1_188" title="bbox 1034 902 1082 927; x_wconf 96">que</span>
+<span class="ocrx_word" id="word_1_189" title="bbox 1092 903 1154 919; x_wconf 93">vous</span>
+<span class="ocrx_word" id="word_1_190" title="bbox 1164 896 1280 920; x_wconf 91">secussiez</span>
+<span class="ocrx_word" id="word_1_191" title="bbox 1290 904 1455 929; x_wconf 92">exactement,</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_19" id_correction="nan" line="et les frais qu’il y auroit a faire pour les mettre abord, les droits et ce que couteroit le fret pour" line_correction="nan" title="bbox 207 929 1456 970; baseline 0.004 -14; x_size 30; x_descenders 4; x_ascenders 10">
+<span class="ocrx_word" id="word_1_192" title="bbox 207 940 229 956; x_wconf 95">et</span>
+<span class="ocrx_word" id="word_1_193" title="bbox 239 931 269 956; x_wconf 95">les</span>
+<span class="ocrx_word" id="word_1_194" title="bbox 279 931 331 956; x_wconf 93">frais</span>
+<span class="ocrx_word" id="word_1_195" title="bbox 340 931 398 966; x_wconf 91">qu’il</span>
+<span class="ocrx_word" id="word_1_196" title="bbox 409 942 423 965; x_wconf 93">y</span>
+<span class="ocrx_word" id="word_1_197" title="bbox 432 934 510 956; x_wconf 87">auroit</span>
+<span class="ocrx_word" id="word_1_198" title="bbox 519 942 531 956; x_wconf 96">a</span>
+<span class="ocrx_word" id="word_1_199" title="bbox 541 930 597 956; x_wconf 96">faire</span>
+<span class="ocrx_word" id="word_1_200" title="bbox 607 941 670 964; x_wconf 96">pour</span>
+<span class="ocrx_word" id="word_1_201" title="bbox 679 930 710 955; x_wconf 96">les</span>
+<span class="ocrx_word" id="word_1_202" title="bbox 720 939 808 955; x_wconf 93">mettre</span>
+<span class="ocrx_word" id="word_1_203" title="bbox 817 929 903 959; x_wconf 92">abord,</span>
+<span class="ocrx_word" id="word_1_204" title="bbox 915 930 946 956; x_wconf 95">les</span>
+<span class="ocrx_word" id="word_1_205" title="bbox 956 931 1033 957; x_wconf 96">droits</span>
+<span class="ocrx_word" id="word_1_206" title="bbox 1042 941 1066 957; x_wconf 96">et</span>
+<span class="ocrx_word" id="word_1_207" title="bbox 1075 942 1102 957; x_wconf 96">ce</span>
+<span class="ocrx_word" id="word_1_208" title="bbox 1112 942 1160 966; x_wconf 93">que</span>
+<span class="ocrx_word" id="word_1_209" title="bbox 1170 936 1295 959; x_wconf 92">couteroit</span>
+<span class="ocrx_word" id="word_1_210" title="bbox 1304 934 1326 960; x_wconf 96">le</span>
+<span class="ocrx_word" id="word_1_211" title="bbox 1336 934 1383 961; x_wconf 96">fret</span>
+<span class="ocrx_word" id="word_1_212" title="bbox 1392 946 1456 970; x_wconf 96">pour</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_20" id_correction="nan" line="les a porter a Dunkerque, Callais ou St Vallery, et le nombre que l’on en pourroit tirer a la" line_correction="nan" title="bbox 206 968 1456 1006; baseline 0.003 -10; x_size 29; x_descenders 4; x_ascenders 10">
+<span class="ocrx_word" id="word_1_213" title="bbox 206 971 237 996; x_wconf 96">les</span>
+<span class="ocrx_word" id="word_1_214" title="bbox 248 981 259 996; x_wconf 96">a</span>
+<span class="ocrx_word" id="word_1_215" title="bbox 271 980 352 1005; x_wconf 95">porter</span>
+<span class="ocrx_word" id="word_1_216" title="bbox 370 981 374 995; x_wconf 95">a</span>
+<span class="ocrx_word" id="word_1_217" title="bbox 387 971 545 1005; x_wconf 93">Dunkerque,</span>
+<span class="ocrx_word" id="word_1_218" title="bbox 558 970 645 995; x_wconf 92">Callais</span>
+<span class="ocrx_word" id="word_1_219" title="bbox 656 980 689 994; x_wconf 96">ou</span>
+<span class="ocrx_word" id="word_1_220" title="bbox 702 972 727 994; x_wconf 96">St</span>
+<span class="ocrx_word" id="word_1_221" title="bbox 740 968 847 1003; x_wconf 93">Vallery,</span>
+<span class="ocrx_word" id="word_1_222" title="bbox 859 979 883 994; x_wconf 93">et</span>
+<span class="ocrx_word" id="word_1_223" title="bbox 894 969 916 995; x_wconf 96">le</span>
+<span class="ocrx_word" id="word_1_224" title="bbox 927 970 1035 996; x_wconf 96">nombre</span>
+<span class="ocrx_word" id="word_1_225" title="bbox 1047 982 1095 1005; x_wconf 92">que</span>
+<span class="ocrx_word" id="word_1_226" title="bbox 1107 971 1158 997; x_wconf 78">l’on</span>
+<span class="ocrx_word" id="word_1_227" title="bbox 1171 983 1200 997; x_wconf 93">en</span>
+<span class="ocrx_word" id="word_1_228" title="bbox 1214 976 1330 1006; x_wconf 92">pourroit</span>
+<span class="ocrx_word" id="word_1_229" title="bbox 1342 977 1399 1000; x_wconf 91">tirer</span>
+<span class="ocrx_word" id="word_1_230" title="bbox 1411 987 1423 1002; x_wconf 95">a</span>
+<span class="ocrx_word" id="word_1_231" title="bbox 1434 977 1456 1003; x_wconf 94">la</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_21" id_correction="nan" line="fois, si on pourroit pas aussy y charger des meches, comme aussy le prix de plomb, ou si vous" line_correction="nan" title="bbox 205 1008 1455 1045; baseline 0.004 -11; x_size 33; x_descenders 7; x_ascenders 11">
+<span class="ocrx_word" id="word_1_232" title="bbox 205 1010 256 1040; x_wconf 96">fois,</span>
+<span class="ocrx_word" id="word_1_233" title="bbox 266 1012 283 1036; x_wconf 81">si</span>
+<span class="ocrx_word" id="word_1_234" title="bbox 293 1020 324 1036; x_wconf 81">on</span>
+<span class="ocrx_word" id="word_1_235" title="bbox 334 1012 445 1045; x_wconf 93">pourroit</span>
+<span class="ocrx_word" id="word_1_236" title="bbox 455 1020 494 1045; x_wconf 93">pas</span>
+<span class="ocrx_word" id="word_1_237" title="bbox 503 1020 571 1044; x_wconf 91">aussy</span>
+<span class="ocrx_word" id="word_1_238" title="bbox 582 1020 596 1044; x_wconf 93">y</span>
+<span class="ocrx_word" id="word_1_239" title="bbox 606 1009 706 1043; x_wconf 96">charger</span>
+<span class="ocrx_word" id="word_1_240" title="bbox 716 1008 756 1033; x_wconf 93">des</span>
+<span class="ocrx_word" id="word_1_241" title="bbox 766 1008 872 1037; x_wconf 92">meches,</span>
+<span class="ocrx_word" id="word_1_242" title="bbox 882 1019 985 1034; x_wconf 92">comme</span>
+<span class="ocrx_word" id="word_1_243" title="bbox 994 1020 1065 1044; x_wconf 92">aussy</span>
+<span class="ocrx_word" id="word_1_244" title="bbox 1075 1010 1096 1036; x_wconf 96">le</span>
+<span class="ocrx_word" id="word_1_245" title="bbox 1106 1013 1162 1044; x_wconf 96">prix</span>
+<span class="ocrx_word" id="word_1_246" title="bbox 1172 1010 1202 1036; x_wconf 93">de</span>
+<span class="ocrx_word" id="word_1_247" title="bbox 1212 1011 1311 1045; x_wconf 92">plomb,</span>
+<span class="ocrx_word" id="word_1_248" title="bbox 1321 1024 1355 1038; x_wconf 96">ou</span>
+<span class="ocrx_word" id="word_1_249" title="bbox 1365 1017 1383 1039; x_wconf 95">si</span>
+<span class="ocrx_word" id="word_1_250" title="bbox 1393 1025 1455 1042; x_wconf 95">vous</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_22" id_correction="nan" line="scavis quelqu’ autre port ou on en puisse avoir cta bonne composition—escrire pour en avoir" line_correction="nan" title="bbox 203 1048 1455 1087; baseline 0.004 -11; x_size 29; x_descenders 7; x_ascenders 6">
+<span class="ocrx_word" id="word_1_251" title="bbox 203 1052 276 1076; x_wconf 92">scavis</span>
+<span class="ocrx_word" id="word_1_252" title="bbox 284 1050 382 1085; x_wconf 91">quelqu’</span>
+<span class="ocrx_word" id="word_1_253" title="bbox 391 1058 457 1076; x_wconf 96">autre</span>
+<span class="ocrx_word" id="word_1_254" title="bbox 466 1058 521 1084; x_wconf 96">port</span>
+<span class="ocrx_word" id="word_1_255" title="bbox 530 1059 562 1075; x_wconf 96">ou</span>
+<span class="ocrx_word" id="word_1_256" title="bbox 571 1059 604 1075; x_wconf 95">on</span>
+<span class="ocrx_word" id="word_1_257" title="bbox 613 1059 642 1075; x_wconf 91">en</span>
+<span class="ocrx_word" id="word_1_258" title="bbox 652 1051 730 1083; x_wconf 87">puisse</span>
+<span class="ocrx_word" id="word_1_259" title="bbox 739 1050 808 1074; x_wconf 92">avoir</span>
+<span class="ocrx_word" id="word_1_260" title="bbox 817 1057 861 1073; x_wconf 82">cta</span>
+<span class="ocrx_word" id="word_1_261" title="bbox 871 1048 954 1074; x_wconf 93">bonne</span>
+<span class="ocrx_word" id="word_1_262" title="bbox 963 1053 1263 1084; x_wconf 87">composition—escrire</span>
+<span class="ocrx_word" id="word_1_263" title="bbox 1272 1062 1337 1087; x_wconf 96">pour</span>
+<span class="ocrx_word" id="word_1_264" title="bbox 1346 1064 1376 1078; x_wconf 96">en</span>
+<span class="ocrx_word" id="word_1_265" title="bbox 1385 1059 1455 1081; x_wconf 96">avoir</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_23" id_correction="nan" line="des avis tres exacts. La sortie n’en sera pas difficile, puis qu’il ne s’agit que d’une simple" line_correction="nan" title="bbox 203 1088 1455 1130; baseline 0.004 -14; x_size 33; x_descenders 7; x_ascenders 10">
+<span class="ocrx_word" id="word_1_266" title="bbox 203 1090 242 1116; x_wconf 96">des</span>
+<span class="ocrx_word" id="word_1_267" title="bbox 257 1092 305 1116; x_wconf 96">avis</span>
+<span class="ocrx_word" id="word_1_268" title="bbox 321 1098 365 1116; x_wconf 96">tres</span>
+<span class="ocrx_word" id="word_1_269" title="bbox 380 1098 466 1116; x_wconf 96">exacts.</span>
+<span class="ocrx_word" id="word_1_270" title="bbox 483 1092 513 1115; x_wconf 96">La</span>
+<span class="ocrx_word" id="word_1_271" title="bbox 529 1091 600 1115; x_wconf 91">sortie</span>
+<span class="ocrx_word" id="word_1_272" title="bbox 616 1088 670 1114; x_wconf 91">n’en</span>
+<span class="ocrx_word" id="word_1_273" title="bbox 687 1098 736 1114; x_wconf 96">sera</span>
+<span class="ocrx_word" id="word_1_274" title="bbox 752 1098 793 1122; x_wconf 96">pas</span>
+<span class="ocrx_word" id="word_1_275" title="bbox 808 1088 915 1118; x_wconf 96">difficile,</span>
+<span class="ocrx_word" id="word_1_276" title="bbox 932 1092 985 1123; x_wconf 93">puis</span>
+<span class="ocrx_word" id="word_1_277" title="bbox 1001 1089 1062 1124; x_wconf 89">qu’il</span>
+<span class="ocrx_word" id="word_1_278" title="bbox 1078 1100 1108 1116; x_wconf 93">ne</span>
+<span class="ocrx_word" id="word_1_279" title="bbox 1124 1090 1195 1125; x_wconf 91">s’agit</span>
+<span class="ocrx_word" id="word_1_280" title="bbox 1211 1101 1260 1126; x_wconf 93">que</span>
+<span class="ocrx_word" id="word_1_281" title="bbox 1275 1092 1352 1119; x_wconf 92">d’une</span>
+<span class="ocrx_word" id="word_1_282" title="bbox 1366 1096 1455 1130; x_wconf 96">simple</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_24" id_correction="nan" line="permission de les enlever que l’on obtient fort facilement. Messieurs Dulivier en ont chargé a" line_correction="nan" title="bbox 203 1127 1454 1169; baseline 0.004 -14; x_size 32.602581; x_descenders 6.602582; x_ascenders 11">
+<span class="ocrx_word" id="word_1_283" title="bbox 203 1132 342 1165; x_wconf 95">permission</span>
+<span class="ocrx_word" id="word_1_284" title="bbox 353 1129 382 1155; x_wconf 96">de</span>
+<span class="ocrx_word" id="word_1_285" title="bbox 392 1129 423 1155; x_wconf 92">les</span>
+<span class="ocrx_word" id="word_1_286" title="bbox 432 1129 528 1155; x_wconf 92">enlever</span>
+<span class="ocrx_word" id="word_1_287" title="bbox 537 1139 584 1164; x_wconf 92">que</span>
+<span class="ocrx_word" id="word_1_288" title="bbox 594 1128 643 1154; x_wconf 68">l’on</span>
+<span class="ocrx_word" id="word_1_289" title="bbox 654 1128 750 1154; x_wconf 93">obtient</span>
+<span class="ocrx_word" id="word_1_290" title="bbox 760 1127 809 1153; x_wconf 93">fort</span>
+<span class="ocrx_word" id="word_1_291" title="bbox 820 1127 968 1154; x_wconf 92">facilement.</span>
+<span class="ocrx_word" id="word_1_292" title="bbox 980 1131 1112 1155; x_wconf 83">Messieurs</span>
+<span class="ocrx_word" id="word_1_293" title="bbox 1122 1130 1238 1156; x_wconf 92">Dulivier</span>
+<span class="ocrx_word" id="word_1_294" title="bbox 1247 1141 1277 1157; x_wconf 96">en</span>
+<span class="ocrx_word" id="word_1_295" title="bbox 1288 1141 1334 1158; x_wconf 96">ont</span>
+<span class="ocrx_word" id="word_1_296" title="bbox 1343 1133 1433 1169; x_wconf 74">chargé</span>
+<span class="ocrx_word" id="word_1_297" title="bbox 1442 1146 1454 1161; x_wconf 74">a</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_25" id_correction="nan" line="Londres pour icy et St Vallery; vous pourriez tacitement vous informer quels biais ils ont pris" line_correction="nan" title="bbox 204 1168 1455 1208; baseline 0.004 -13; x_size 34; x_descenders 8; x_ascenders 11">
+<span class="ocrx_word" id="word_1_298" title="bbox 204 1169 308 1195; x_wconf 96">Londres</span>
+<span class="ocrx_word" id="word_1_299" title="bbox 317 1180 379 1204; x_wconf 96">pour</span>
+<span class="ocrx_word" id="word_1_300" title="bbox 388 1172 425 1203; x_wconf 96">icy</span>
+<span class="ocrx_word" id="word_1_301" title="bbox 434 1179 457 1194; x_wconf 77">et</span>
+<span class="ocrx_word" id="word_1_302" title="bbox 466 1171 492 1194; x_wconf 93">St</span>
+<span class="ocrx_word" id="word_1_303" title="bbox 501 1168 606 1202; x_wconf 92">Vallery;</span>
+<span class="ocrx_word" id="word_1_304" title="bbox 617 1179 678 1193; x_wconf 93">vous</span>
+<span class="ocrx_word" id="word_1_305" title="bbox 688 1170 801 1202; x_wconf 83">pourriez</span>
+<span class="ocrx_word" id="word_1_306" title="bbox 811 1170 955 1193; x_wconf 91">tacitement</span>
+<span class="ocrx_word" id="word_1_307" title="bbox 964 1178 1026 1194; x_wconf 96">vous</span>
+<span class="ocrx_word" id="word_1_308" title="bbox 1036 1169 1160 1195; x_wconf 93">informer</span>
+<span class="ocrx_word" id="word_1_309" title="bbox 1169 1170 1238 1204; x_wconf 92">quels</span>
+<span class="ocrx_word" id="word_1_310" title="bbox 1247 1170 1307 1197; x_wconf 91">biais</span>
+<span class="ocrx_word" id="word_1_311" title="bbox 1317 1172 1344 1197; x_wconf 96">ils</span>
+<span class="ocrx_word" id="word_1_312" title="bbox 1353 1182 1398 1199; x_wconf 96">ont</span>
+<span class="ocrx_word" id="word_1_313" title="bbox 1407 1177 1455 1208; x_wconf 96">pris</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_26" id_correction="nan" line="pour l’obtenir. Si vous vouliez m’en fournir pour votre compte, c’est a dire que vous en" line_correction="nan" title="bbox 203 1207 1454 1245; baseline 0.004 -10; x_size 30; x_descenders 4; x_ascenders 11">
+<span class="ocrx_word" id="word_1_314" title="bbox 203 1220 264 1245; x_wconf 93">pour</span>
+<span class="ocrx_word" id="word_1_315" title="bbox 278 1210 397 1235; x_wconf 81">l’obtenir.</span>
+<span class="ocrx_word" id="word_1_316" title="bbox 413 1212 435 1235; x_wconf 96">Si</span>
+<span class="ocrx_word" id="word_1_317" title="bbox 450 1220 510 1235; x_wconf 93">vous</span>
+<span class="ocrx_word" id="word_1_318" title="bbox 525 1208 621 1234; x_wconf 88">vouliez</span>
+<span class="ocrx_word" id="word_1_319" title="bbox 635 1207 701 1233; x_wconf 80">m’en</span>
+<span class="ocrx_word" id="word_1_320" title="bbox 717 1207 812 1233; x_wconf 93">fournir</span>
+<span class="ocrx_word" id="word_1_321" title="bbox 826 1218 891 1241; x_wconf 96">pour</span>
+<span class="ocrx_word" id="word_1_322" title="bbox 905 1217 976 1233; x_wconf 97">votre</span>
+<span class="ocrx_word" id="word_1_323" title="bbox 991 1218 1102 1243; x_wconf 93">compte,</span>
+<span class="ocrx_word" id="word_1_324" title="bbox 1118 1209 1176 1235; x_wconf 90">c’est</span>
+<span class="ocrx_word" id="word_1_325" title="bbox 1190 1221 1203 1235; x_wconf 97">a</span>
+<span class="ocrx_word" id="word_1_326" title="bbox 1218 1209 1270 1236; x_wconf 96">dire</span>
+<span class="ocrx_word" id="word_1_327" title="bbox 1285 1222 1333 1245; x_wconf 96">que</span>
+<span class="ocrx_word" id="word_1_328" title="bbox 1348 1223 1411 1239; x_wconf 95">vous</span>
+<span class="ocrx_word" id="word_1_329" title="bbox 1425 1225 1454 1240; x_wconf 95">en</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_27" id_correction="nan" line="couresus les risques jusques a ce qu’clles fussent arrives dans un des ports pour lequel elles" line_correction="couresus les risques jusques a ce qu’elles fussent arrives dans un des ports pour lequel elles" title="bbox 202 1247 1455 1286; baseline 0.003 -10; x_size 34; x_descenders 8; x_ascenders 11">
+<span class="ocrx_word" id="word_1_330" title="bbox 202 1260 313 1276; x_wconf 92">couresus</span>
+<span class="ocrx_word" id="word_1_331" title="bbox 326 1250 356 1276; x_wconf 96">les</span>
+<span class="ocrx_word" id="word_1_332" title="bbox 370 1252 458 1284; x_wconf 93">risques</span>
+<span class="ocrx_word" id="word_1_333" title="bbox 466 1252 565 1284; x_wconf 93">jusques</span>
+<span class="ocrx_word" id="word_1_334" title="bbox 578 1259 590 1274; x_wconf 96">a</span>
+<span class="ocrx_word" id="word_1_335" title="bbox 604 1259 631 1274; x_wconf 93">ce</span>
+<span class="ocrx_word" id="word_1_336" title="bbox 644 1248 743 1283; x_wconf 89">qu’clles</span>
+<span class="ocrx_word" id="word_1_337" title="bbox 758 1247 848 1272; x_wconf 92">fussent</span>
+<span class="ocrx_word" id="word_1_338" title="bbox 862 1250 952 1273; x_wconf 96">arrives</span>
+<span class="ocrx_word" id="word_1_339" title="bbox 966 1247 1025 1274; x_wconf 96">dans</span>
+<span class="ocrx_word" id="word_1_340" title="bbox 1039 1259 1072 1274; x_wconf 96">un</span>
+<span class="ocrx_word" id="word_1_341" title="bbox 1087 1248 1129 1274; x_wconf 96">des</span>
+<span class="ocrx_word" id="word_1_342" title="bbox 1143 1259 1211 1283; x_wconf 96">ports</span>
+<span class="ocrx_word" id="word_1_343" title="bbox 1226 1260 1291 1284; x_wconf 93">pour</span>
+<span class="ocrx_word" id="word_1_344" title="bbox 1305 1250 1385 1286; x_wconf 90">lequel</span>
+<span class="ocrx_word" id="word_1_345" title="bbox 1399 1253 1455 1280; x_wconf 83">elles</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_28" id_correction="nan" line="seroient destinees pour un prix dont nous conviendrions outre le premier achapt ct les frais" line_correction="nan" title="bbox 202 1288 1454 1325; baseline 0.002 -9; x_size 28; x_descenders 4; x_ascenders 8">
+<span class="ocrx_word" id="word_1_346" title="bbox 202 1292 304 1316; x_wconf 89">seroient</span>
+<span class="ocrx_word" id="word_1_347" title="bbox 315 1290 430 1316; x_wconf 81">destinees</span>
+<span class="ocrx_word" id="word_1_348" title="bbox 441 1299 503 1324; x_wconf 96">pour</span>
+<span class="ocrx_word" id="word_1_349" title="bbox 515 1299 547 1315; x_wconf 96">un</span>
+<span class="ocrx_word" id="word_1_350" title="bbox 560 1291 613 1323; x_wconf 96">prix</span>
+<span class="ocrx_word" id="word_1_351" title="bbox 625 1288 687 1314; x_wconf 96">dont</span>
+<span class="ocrx_word" id="word_1_352" title="bbox 699 1298 761 1312; x_wconf 93">nous</span>
+<span class="ocrx_word" id="word_1_353" title="bbox 772 1288 966 1313; x_wconf 92">conviendrions</span>
+<span class="ocrx_word" id="word_1_354" title="bbox 978 1298 1051 1313; x_wconf 92">outre</span>
+<span class="ocrx_word" id="word_1_355" title="bbox 1063 1289 1084 1313; x_wconf 97">le</span>
+<span class="ocrx_word" id="word_1_356" title="bbox 1097 1292 1206 1323; x_wconf 96">premier</span>
+<span class="ocrx_word" id="word_1_357" title="bbox 1218 1290 1308 1325; x_wconf 86">achapt</span>
+<span class="ocrx_word" id="word_1_358" title="bbox 1319 1300 1343 1316; x_wconf 90">ct</span>
+<span class="ocrx_word" id="word_1_359" title="bbox 1355 1292 1387 1317; x_wconf 96">les</span>
+<span class="ocrx_word" id="word_1_360" title="bbox 1400 1293 1454 1320; x_wconf 95">frais</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_29" id_correction="nan" line="ordinaires qu’il convient faire jusques abord et pour le prix du fret, c’est a dire que je vous" line_correction="nan" title="bbox 202 1327 1454 1366; baseline 0 -10; x_size 30; x_descenders 4; x_ascenders 10">
+<span class="ocrx_word" id="word_1_361" title="bbox 202 1330 331 1356; x_wconf 92">ordinaires</span>
+<span class="ocrx_word" id="word_1_362" title="bbox 343 1329 400 1365; x_wconf 88">qu’il</span>
+<span class="ocrx_word" id="word_1_363" title="bbox 412 1332 528 1355; x_wconf 96">convient</span>
+<span class="ocrx_word" id="word_1_364" title="bbox 535 1325 597 1369; x_wconf 93">faire</span>
+<span class="ocrx_word" id="word_1_365" title="bbox 608 1330 705 1363; x_wconf 93">jusques</span>
+<span class="ocrx_word" id="word_1_366" title="bbox 717 1327 794 1353; x_wconf 93">abord</span>
+<span class="ocrx_word" id="word_1_367" title="bbox 807 1336 830 1352; x_wconf 96">et</span>
+<span class="ocrx_word" id="word_1_368" title="bbox 842 1337 907 1361; x_wconf 96">pour</span>
+<span class="ocrx_word" id="word_1_369" title="bbox 919 1327 941 1353; x_wconf 96">le</span>
+<span class="ocrx_word" id="word_1_370" title="bbox 953 1330 1008 1362; x_wconf 96">prix</span>
+<span class="ocrx_word" id="word_1_371" title="bbox 1021 1328 1055 1354; x_wconf 96">du</span>
+<span class="ocrx_word" id="word_1_372" title="bbox 1068 1328 1122 1358; x_wconf 91">fret,</span>
+<span class="ocrx_word" id="word_1_373" title="bbox 1136 1329 1195 1355; x_wconf 90">c’est</span>
+<span class="ocrx_word" id="word_1_374" title="bbox 1207 1339 1219 1354; x_wconf 96">a</span>
+<span class="ocrx_word" id="word_1_375" title="bbox 1232 1330 1284 1355; x_wconf 96">dire</span>
+<span class="ocrx_word" id="word_1_376" title="bbox 1297 1333 1380 1366; x_wconf 96">que</span>
+<span class="ocrx_word" id="word_1_377" title="bbox 1351 1326 1381 1370; x_wconf 96">je</span>
+<span class="ocrx_word" id="word_1_378" title="bbox 1392 1343 1454 1359; x_wconf 96">vous</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_30" id_correction="nan" line="donnerois tant pour-cent pour votre provision, celle de votre amy et pour les risques de la" line_correction="nan" title="bbox 202 1367 1454 1405; baseline -0.001 -9; x_size 31; x_descenders 6; x_ascenders 9">
+<span class="ocrx_word" id="word_1_379" title="bbox 202 1370 331 1396; x_wconf 92">donnerois</span>
+<span class="ocrx_word" id="word_1_380" title="bbox 343 1378 393 1395; x_wconf 92">tant</span>
+<span class="ocrx_word" id="word_1_381" title="bbox 405 1377 535 1404; x_wconf 92">pour-cent</span>
+<span class="ocrx_word" id="word_1_382" title="bbox 547 1378 610 1403; x_wconf 97">pour</span>
+<span class="ocrx_word" id="word_1_383" title="bbox 622 1376 692 1394; x_wconf 97">votre</span>
+<span class="ocrx_word" id="word_1_384" title="bbox 705 1369 840 1402; x_wconf 96">provision,</span>
+<span class="ocrx_word" id="word_1_385" title="bbox 854 1367 913 1392; x_wconf 90">celle</span>
+<span class="ocrx_word" id="word_1_386" title="bbox 925 1367 956 1393; x_wconf 96">de</span>
+<span class="ocrx_word" id="word_1_387" title="bbox 969 1377 1041 1393; x_wconf 96">votre</span>
+<span class="ocrx_word" id="word_1_388" title="bbox 1053 1378 1113 1402; x_wconf 96">amy</span>
+<span class="ocrx_word" id="word_1_389" title="bbox 1126 1377 1150 1394; x_wconf 93">et</span>
+<span class="ocrx_word" id="word_1_390" title="bbox 1163 1378 1228 1403; x_wconf 96">pour</span>
+<span class="ocrx_word" id="word_1_391" title="bbox 1241 1369 1273 1395; x_wconf 96">les</span>
+<span class="ocrx_word" id="word_1_392" title="bbox 1285 1372 1378 1405; x_wconf 96">risques</span>
+<span class="ocrx_word" id="word_1_393" title="bbox 1391 1372 1421 1398; x_wconf 96">de</span>
+<span class="ocrx_word" id="word_1_394" title="bbox 1433 1373 1454 1399; x_wconf 96">la</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_31" id_correction="nan" line="mer, sur quoy je vous pric de me donner reponce positive et le plus promptement que vous" line_correction="nan" title="bbox 201 1407 1454 1445; baseline 0.002 -9; x_size 31; x_descenders 5; x_ascenders 11">
+<span class="ocrx_word" id="word_1_395" title="bbox 201 1421 260 1440; x_wconf 96">mer,</span>
+<span class="ocrx_word" id="word_1_396" title="bbox 272 1421 310 1436; x_wconf 93">sur</span>
+<span class="ocrx_word" id="word_1_397" title="bbox 320 1411 418 1445; x_wconf 93">quoy</span>
+<span class="ocrx_word" id="word_1_398" title="bbox 392 1403 420 1449; x_wconf 96">je</span>
+<span class="ocrx_word" id="word_1_399" title="bbox 429 1420 489 1435; x_wconf 96">vous</span>
+<span class="ocrx_word" id="word_1_400" title="bbox 500 1411 550 1444; x_wconf 51">pric</span>
+<span class="ocrx_word" id="word_1_401" title="bbox 561 1408 590 1434; x_wconf 96">de</span>
+<span class="ocrx_word" id="word_1_402" title="bbox 602 1419 641 1434; x_wconf 96">me</span>
+<span class="ocrx_word" id="word_1_403" title="bbox 652 1408 748 1434; x_wconf 93">donner</span>
+<span class="ocrx_word" id="word_1_404" title="bbox 758 1417 866 1441; x_wconf 92">reponce</span>
+<span class="ocrx_word" id="word_1_405" title="bbox 877 1409 984 1441; x_wconf 96">positive</span>
+<span class="ocrx_word" id="word_1_406" title="bbox 995 1416 1018 1433; x_wconf 96">et</span>
+<span class="ocrx_word" id="word_1_407" title="bbox 1029 1407 1051 1433; x_wconf 96">le</span>
+<span class="ocrx_word" id="word_1_408" title="bbox 1062 1407 1116 1442; x_wconf 93">plus</span>
+<span class="ocrx_word" id="word_1_409" title="bbox 1128 1417 1321 1443; x_wconf 90">promptement</span>
+<span class="ocrx_word" id="word_1_410" title="bbox 1332 1420 1381 1445; x_wconf 96">que</span>
+<span class="ocrx_word" id="word_1_411" title="bbox 1392 1422 1454 1439; x_wconf 96">vous</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_32" id_correction="nan" line="pourrez. Ne vous addressez qu’a des gens secrets et de grande ponctuellité. C’est une affaire" line_correction="nan" title="bbox 201 1447 1454 1486; baseline 0.001 -10; x_size 33; x_descenders 7; x_ascenders 11">
+<span class="ocrx_word" id="word_1_412" title="bbox 201 1461 309 1486; x_wconf 91">pourrez.</span>
+<span class="ocrx_word" id="word_1_413" title="bbox 322 1453 361 1475; x_wconf 96">Ne</span>
+<span class="ocrx_word" id="word_1_414" title="bbox 373 1461 432 1475; x_wconf 93">vous</span>
+<span class="ocrx_word" id="word_1_415" title="bbox 443 1449 566 1475; x_wconf 92">addressez</span>
+<span class="ocrx_word" id="word_1_416" title="bbox 576 1448 632 1483; x_wconf 90">qu’a</span>
+<span class="ocrx_word" id="word_1_417" title="bbox 644 1448 684 1474; x_wconf 96">des</span>
+<span class="ocrx_word" id="word_1_418" title="bbox 695 1458 754 1482; x_wconf 96">gens</span>
+<span class="ocrx_word" id="word_1_419" title="bbox 765 1456 851 1472; x_wconf 96">secrets</span>
+<span class="ocrx_word" id="word_1_420" title="bbox 863 1457 887 1472; x_wconf 96">et</span>
+<span class="ocrx_word" id="word_1_421" title="bbox 897 1447 928 1472; x_wconf 96">de</span>
+<span class="ocrx_word" id="word_1_422" title="bbox 939 1447 1033 1481; x_wconf 93">grande</span>
+<span class="ocrx_word" id="word_1_423" title="bbox 1045 1448 1217 1482; x_wconf 90">ponctuellité.</span>
+<span class="ocrx_word" id="word_1_424" title="bbox 1231 1448 1300 1475; x_wconf 90">C’est</span>
+<span class="ocrx_word" id="word_1_425" title="bbox 1312 1460 1360 1475; x_wconf 93">une</span>
+<span class="ocrx_word" id="word_1_426" title="bbox 1371 1451 1454 1478; x_wconf 93">affaire</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_33" id_correction="nan" line="qui pourra vous en aporter d’autres avec bon proffit, puisque cela ce pourroit monter a des" line_correction="nan" title="bbox 200 1487 1453 1526; baseline 0.002 -10; x_size 33; x_descenders 8; x_ascenders 10">
+<span class="ocrx_word" id="word_1_427" title="bbox 200 1493 240 1526; x_wconf 96">qui</span>
+<span class="ocrx_word" id="word_1_428" title="bbox 252 1501 340 1526; x_wconf 96">pourra</span>
+<span class="ocrx_word" id="word_1_429" title="bbox 352 1501 412 1515; x_wconf 94">vous</span>
+<span class="ocrx_word" id="word_1_430" title="bbox 423 1500 452 1515; x_wconf 90">en</span>
+<span class="ocrx_word" id="word_1_431" title="bbox 464 1498 560 1525; x_wconf 90">aporter</span>
+<span class="ocrx_word" id="word_1_432" title="bbox 571 1489 675 1514; x_wconf 92">d’autres</span>
+<span class="ocrx_word" id="word_1_433" title="bbox 687 1498 746 1513; x_wconf 96">avec</span>
+<span class="ocrx_word" id="word_1_434" title="bbox 758 1487 808 1512; x_wconf 92">bon</span>
+<span class="ocrx_word" id="word_1_435" title="bbox 821 1487 913 1522; x_wconf 92">proffit,</span>
+<span class="ocrx_word" id="word_1_436" title="bbox 927 1490 1031 1522; x_wconf 92">puisque</span>
+<span class="ocrx_word" id="word_1_437" title="bbox 1043 1487 1094 1513; x_wconf 89">cela</span>
+<span class="ocrx_word" id="word_1_438" title="bbox 1106 1498 1134 1513; x_wconf 93">ce</span>
+<span class="ocrx_word" id="word_1_439" title="bbox 1146 1490 1262 1522; x_wconf 88">pourroit</span>
+<span class="ocrx_word" id="word_1_440" title="bbox 1275 1499 1377 1515; x_wconf 93">monter</span>
+<span class="ocrx_word" id="word_1_441" title="bbox 1388 1501 1401 1516; x_wconf 96">a</span>
+<span class="ocrx_word" id="word_1_442" title="bbox 1413 1491 1453 1518; x_wconf 96">des</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_34" id_correction="nan" line="sommes considerables. Je vous diray qu’il n’y auroit point de risques a courir du coste des" line_correction="nan" title="bbox 199 1527 1453 1564; baseline -0.001 -6; x_size 33; x_descenders 7; x_ascenders 10">
+<span class="ocrx_word" id="word_1_443" title="bbox 199 1541 304 1558; x_wconf 93">sommes</span>
+<span class="ocrx_word" id="word_1_444" title="bbox 317 1530 498 1557; x_wconf 84">considerables.</span>
+<span class="ocrx_word" id="word_1_445" title="bbox 506 1532 534 1564; x_wconf 96">Je</span>
+<span class="ocrx_word" id="word_1_446" title="bbox 547 1539 608 1555; x_wconf 91">vous</span>
+<span class="ocrx_word" id="word_1_447" title="bbox 621 1529 689 1563; x_wconf 90">diray</span>
+<span class="ocrx_word" id="word_1_448" title="bbox 703 1528 762 1563; x_wconf 89">qu’il</span>
+<span class="ocrx_word" id="word_1_449" title="bbox 776 1527 818 1562; x_wconf 90">n’y</span>
+<span class="ocrx_word" id="word_1_450" title="bbox 831 1530 913 1552; x_wconf 92">auroit</span>
+<span class="ocrx_word" id="word_1_451" title="bbox 926 1530 998 1562; x_wconf 96">point</span>
+<span class="ocrx_word" id="word_1_452" title="bbox 1011 1528 1042 1552; x_wconf 96">de</span>
+<span class="ocrx_word" id="word_1_453" title="bbox 1055 1530 1148 1563; x_wconf 96">risques</span>
+<span class="ocrx_word" id="word_1_454" title="bbox 1161 1538 1173 1553; x_wconf 93">a</span>
+<span class="ocrx_word" id="word_1_455" title="bbox 1188 1531 1271 1553; x_wconf 90">courir</span>
+<span class="ocrx_word" id="word_1_456" title="bbox 1285 1529 1318 1554; x_wconf 93">du</span>
+<span class="ocrx_word" id="word_1_457" title="bbox 1332 1539 1400 1556; x_wconf 92">coste</span>
+<span class="ocrx_word" id="word_1_458" title="bbox 1412 1532 1453 1558; x_wconf 96">des</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_35" id_correction="nan" line="armateurs de France car jauray des passe-ports du Roy, ainsy chargeant dans un anglois et" line_correction="nan" title="bbox 198 1567 1453 1604; baseline 0 -7; x_size 32; x_descenders 6; x_ascenders 10">
+<span class="ocrx_word" id="word_1_459" title="bbox 198 1580 327 1598; x_wconf 92">armateurs</span>
+<span class="ocrx_word" id="word_1_460" title="bbox 339 1571 369 1597; x_wconf 96">de</span>
+<span class="ocrx_word" id="word_1_461" title="bbox 381 1573 467 1596; x_wconf 96">France</span>
+<span class="ocrx_word" id="word_1_462" title="bbox 479 1580 513 1596; x_wconf 92">car</span>
+<span class="ocrx_word" id="word_1_463" title="bbox 524 1569 620 1604; x_wconf 26">jauray</span>
+<span class="ocrx_word" id="word_1_464" title="bbox 633 1569 673 1595; x_wconf 93">des</span>
+<span class="ocrx_word" id="word_1_465" title="bbox 686 1576 834 1603; x_wconf 91">passe-ports</span>
+<span class="ocrx_word" id="word_1_466" title="bbox 846 1567 880 1593; x_wconf 96">du</span>
+<span class="ocrx_word" id="word_1_467" title="bbox 893 1570 959 1602; x_wconf 93">Roy,</span>
+<span class="ocrx_word" id="word_1_468" title="bbox 972 1570 1041 1602; x_wconf 93">ainsy</span>
+<span class="ocrx_word" id="word_1_469" title="bbox 1054 1568 1189 1602; x_wconf 93">chargeant</span>
+<span class="ocrx_word" id="word_1_470" title="bbox 1202 1568 1262 1594; x_wconf 96">dans</span>
+<span class="ocrx_word" id="word_1_471" title="bbox 1275 1579 1309 1594; x_wconf 92">un</span>
+<span class="ocrx_word" id="word_1_472" title="bbox 1322 1570 1418 1604; x_wconf 91">anglois</span>
+<span class="ocrx_word" id="word_1_473" title="bbox 1430 1581 1453 1597; x_wconf 96">et</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_36" id_correction="nan" line="faisant les conoissements commes pour I’Isle de Wigt ou outre lieu et ayant aussy passeport du" line_correction="nan" title="bbox 199 1607 1453 1644; baseline -0.001 -6; x_size 32; x_descenders 6; x_ascenders 10">
+<span class="ocrx_word" id="word_1_474" title="bbox 199 1612 280 1638; x_wconf 93">faisant</span>
+<span class="ocrx_word" id="word_1_475" title="bbox 289 1611 319 1637; x_wconf 93">les</span>
+<span class="ocrx_word" id="word_1_476" title="bbox 328 1613 516 1637; x_wconf 91">conoissements</span>
+<span class="ocrx_word" id="word_1_477" title="bbox 524 1619 635 1636; x_wconf 91">commes</span>
+<span class="ocrx_word" id="word_1_478" title="bbox 644 1619 707 1644; x_wconf 93">pour</span>
+<span class="ocrx_word" id="word_1_479" title="bbox 716 1608 776 1634; x_wconf 9">I’Isle</span>
+<span class="ocrx_word" id="word_1_480" title="bbox 785 1607 816 1633; x_wconf 93">de</span>
+<span class="ocrx_word" id="word_1_481" title="bbox 824 1609 896 1642; x_wconf 92">Wigt</span>
+<span class="ocrx_word" id="word_1_482" title="bbox 905 1617 938 1633; x_wconf 93">ou</span>
+<span class="ocrx_word" id="word_1_483" title="bbox 947 1616 1020 1633; x_wconf 92">outre</span>
+<span class="ocrx_word" id="word_1_484" title="bbox 1029 1607 1077 1633; x_wconf 86">lieu</span>
+<span class="ocrx_word" id="word_1_485" title="bbox 1086 1616 1110 1633; x_wconf 89">et</span>
+<span class="ocrx_word" id="word_1_486" title="bbox 1119 1616 1194 1642; x_wconf 93">ayant</span>
+<span class="ocrx_word" id="word_1_487" title="bbox 1203 1618 1274 1642; x_wconf 88">aussy</span>
+<span class="ocrx_word" id="word_1_488" title="bbox 1284 1618 1411 1644; x_wconf 91">passeport</span>
+<span class="ocrx_word" id="word_1_489" title="bbox 1419 1611 1453 1638; x_wconf 96">du</span>
+</span>
+<span annotation="FRENCH" class="ocr_line" id="line_1_37" id_correction="nan" line="Roy d’Angleterre il n’auroit que les risques de la mer, que l'on pourroit faire assurer, soit a" line_correction="nan" title="bbox 197 1647 1452 1686; baseline -0.001 -8; x_size 32; x_descenders 6; x_ascenders 11">
+<span class="ocrx_word" id="word_1_490" title="bbox 197 1654 251 1686; x_wconf 93">Roy</span>
+<span class="ocrx_word" id="word_1_491" title="bbox 263 1651 430 1686; x_wconf 91">d’Angleterre</span>
+<span class="ocrx_word" id="word_1_492" title="bbox 442 1650 457 1676; x_wconf 93">il</span>
+<span class="ocrx_word" id="word_1_493" title="bbox 469 1650 574 1676; x_wconf 78">n’auroit</span>
+<span class="ocrx_word" id="word_1_494" title="bbox 585 1660 632 1684; x_wconf 96">que</span>
+<span class="ocrx_word" id="word_1_495" title="bbox 644 1649 676 1675; x_wconf 95">les</span>
+<span class="ocrx_word" id="word_1_496" title="bbox 688 1650 778 1683; x_wconf 96">risques</span>
+<span class="ocrx_word" id="word_1_497" title="bbox 790 1647 821 1673; x_wconf 96">de</span>
+<span class="ocrx_word" id="word_1_498" title="bbox 833 1647 853 1673; x_wconf 83">la</span>
+<span class="ocrx_word" id="word_1_499" title="bbox 866 1658 928 1677; x_wconf 96">mer,</span>
+<span class="ocrx_word" id="word_1_500" title="bbox 941 1658 990 1682; x_wconf 96">que</span>
+<span class="ocrx_word" id="word_1_501" title="bbox 1002 1647 1053 1673; x_wconf 0">l'on</span>
+<span class="ocrx_word" id="word_1_502" title="bbox 1067 1650 1183 1682; x_wconf 92">pourroit</span>
+<span class="ocrx_word" id="word_1_503" title="bbox 1197 1648 1256 1674; x_wconf 92">faire</span>
+<span class="ocrx_word" id="word_1_504" title="bbox 1268 1658 1369 1680; x_wconf 92">assurer,</span>
+<span class="ocrx_word" id="word_1_505" title="bbox 1382 1653 1429 1677; x_wconf 96">soit</span>
+<span class="ocrx_word" id="word_1_506" title="bbox 1440 1662 1452 1677; x_wconf 96">a</span>
+</span>
+<span annotation="MULTI" class="ocr_line" id="line_1_38" id_correction="nan" line="Londres ou Paris ou icy. C’est ce qui s’offre et que je suis, Monsicur, votre tres humble" line_correction="Londres ou Paris ou icy.=C’est ce qui s’offre et que je suis, Monsieur, votre tres humble" title="bbox 197 1687 1452 1725; baseline -0.001 -7; x_size 33; x_descenders 6; x_ascenders 12">
+<span class="ocrx_word" id="word_1_507" title="bbox 197 1692 300 1718; x_wconf 95">Londres</span>
+<span class="ocrx_word" id="word_1_508" title="bbox 315 1703 347 1718; x_wconf 96">ou</span>
+<span class="ocrx_word" id="word_1_509" title="bbox 363 1694 424 1717; x_wconf 96">Paris</span>
+<span class="ocrx_word" id="word_1_510" title="bbox 439 1702 471 1717; x_wconf 96">ou</span>
+<span class="ocrx_word" id="word_1_511" title="bbox 487 1694 532 1725; x_wconf 93">icy.</span>
+<span class="ocrx_word" id="word_1_512" title="bbox 549 1689 616 1716; x_wconf 92">C’est</span>
+<span class="ocrx_word" id="word_1_513" title="bbox 630 1700 657 1715; x_wconf 96">ce</span>
+<span class="ocrx_word" id="word_1_514" title="bbox 672 1690 713 1724; x_wconf 93">qui</span>
+<span class="ocrx_word" id="word_1_515" title="bbox 729 1687 812 1714; x_wconf 63">s’offre</span>
+<span class="ocrx_word" id="word_1_516" title="bbox 827 1697 850 1713; x_wconf 96">et</span>
+<span class="ocrx_word" id="word_1_517" title="bbox 866 1698 914 1722; x_wconf 96">que</span>
+<span class="ocrx_word" id="word_1_518" title="bbox 924 1689 951 1722; x_wconf 95">je</span>
+<span class="ocrx_word" id="word_1_519" title="bbox 966 1689 1022 1717; x_wconf 93">suis,</span>
+<span class="ocrx_word" id="word_1_520" title="bbox 1040 1690 1180 1718; x_wconf 92">Monsicur,</span>
+<span class="ocrx_word" id="word_1_521" title="bbox 1197 1698 1270 1714; x_wconf 96">votre</span>
+<span class="ocrx_word" id="word_1_522" title="bbox 1286 1698 1333 1714; x_wconf 96">tres</span>
+<span class="ocrx_word" id="word_1_523" title="bbox 1348 1689 1452 1717; x_wconf 96">humble</span>
+</span>
+</p>
+</div>
+<div class="ocr_carea" id="block_1_8" title="bbox 193 1735 1452 1964">
+<p class="ocr_par" id="par_1_8" lang="eng" title="bbox 196 1735 317 1758" xml:lang="eng">
+<span annotation="SIGN-OFF" class="ocr_line" id="line_1_39" id_correction="nan" line="serviteur." line_correction="nan" title="bbox 196 1735 317 1758; baseline 0 0; x_size 30.860962; x_descenders 7.8609629; x_ascenders 8">
+<span class="ocrx_word" id="word_1_524" title="bbox 196 1735 317 1758; x_wconf 93">serviteur.</span>
+</span>
+</p>
+<p class="ocr_par" id="par_1_9" lang="eng" title="bbox 196 1791 1452 1928" xml:lang="eng">
+<span annotation="EXCHANGE_RATE" class="ocr_line" id="line_1_40" id_correction="nan" line="Costy—s54 a 9d.”" line_correction="Costy—55 1/4 a 3/8d.”" title="bbox 196 1791 435 1829; baseline -0.013 -8; x_size 36; x_descenders 9; x_ascenders 11">
+<span class="ocrx_word" id="word_1_525" title="bbox 196 1792 356 1829; x_wconf 33">Costy—s54</span>
+<span class="ocrx_word" id="word_1_526" title="bbox 368 1803 379 1818; x_wconf 33">a</span>
+<span class="ocrx_word" id="word_1_527" title="bbox 392 1791 435 1825; x_wconf 41">9d.”</span>
+</span>
+<span annotation="DATE_OF_ARRIVAL" class="ocr_line" id="line_1_41" id_correction="nan" line="12 Sep." line_correction="12 Sep. 1676" title="bbox 1314 1862 1397 1884; baseline 0.024 -2; x_size 28.860962; x_descenders 7.8609629; x_ascenders 6">
+<span class="ocrx_word" id="word_1_528" title="bbox 1314 1867 1337 1882; x_wconf 96">12</span>
+<span class="ocrx_word" id="word_1_529" title="bbox 1348 1862 1397 1884; x_wconf 95">Sep.</span>
+</span>
+<span annotation="NOISE" class="ocr_line" id="line_1_42" id_correction="nan" line="sey," line_correction="nan" title="bbox 1310 1869 1452 1907; baseline 0.007 -14; x_size 32.392857; x_descenders 8.166667; x_ascenders 8.6428576">
+<span class="ocrx_word" id="word_1_530" title="bbox 1310 1869 1452 1907; x_wconf 21">sey,</span>
+</span>
+<span annotation="DATE_OF_REPLY" class="ocr_line" id="line_1_43" id_correction="nan" line="12 Sep." line_correction="12 Sep. 1676" title="bbox 1313 1898 1397 1928; baseline 0.024 -9; x_size 30; x_descenders 8; x_ascenders 8">
+<span class="ocrx_word" id="word_1_531" title="bbox 1313 1905 1336 1919; x_wconf 96">12</span>
+<span class="ocrx_word" id="word_1_532" title="bbox 1347 1898 1397 1928; x_wconf 96">Sep.</span>
+</span>
+</p><p class="ocr_par" id="par_1_2" lang="eng" title="bbox 109 1942 153 1965" xml:lang="eng">
+<span annotation="ID" class="ocr_line" id="line_1_2" id_correction="line_1_43.b" line="305" line_correction="nan" title="bbox 109 1942 153 1965; baseline 0 0; x_size 31; x_descenders 7.75; x_ascenders 7.75">
+<span class="ocrx_word" id="word_1_2" title="bbox 109 1942 153 1965; x_wconf 95">305</span>
+</span>
+</p>
+<p class="ocr_par" id="par_1_10" lang="eng" title="bbox 193 1946 456 1964" xml:lang="eng">
+<span annotation="TITLE" class="ocr_line" id="line_1_44" id_correction="nan" line="W. MOMMA to LM" line_correction="nan" title="bbox 193 1946 456 1964; baseline -0.008 0; x_size 32.392857; x_descenders 8.166667; x_ascenders 8.6428576">
+<span class="ocrx_word" id="word_1_533" title="bbox 193 1948 225 1964; x_wconf 90">W.</span>
+<span class="ocrx_word" id="word_1_534" title="bbox 247 1947 356 1964; x_wconf 96">MOMMA</span>
+<span class="ocrx_word" id="word_1_535" title="bbox 375 1946 400 1963; x_wconf 96">to</span>
+<span class="ocrx_word" id="word_1_536" title="bbox 421 1946 456 1963; x_wconf 96">LM</span>
+</span>
+</p>
+</div>
+<div class="ocr_carea" id="block_1_9" title="bbox 193 1977 1449 2007">
+<p class="ocr_par" id="par_1_11" lang="eng" title="bbox 193 1977 1449 2007" xml:lang="eng">
+<span annotation="DATELINE" class="ocr_line" id="line_1_45" id_correction="nan" line="NYKOPING 23 JULY 1676" line_correction="NYKÖPING 23 JULY 1676" title="bbox 193 1977 1449 2007; baseline -0.002 -3; x_size 33; x_descenders 6; x_ascenders 10">
+<span class="ocrx_word" id="word_1_537" title="bbox 193 1977 336 2005; x_wconf 92">NYKOPING</span>
+<span class="ocrx_word" id="word_1_538" title="bbox 1266 1984 1294 2007; x_wconf 96">23</span>
+<span class="ocrx_word" id="word_1_539" title="bbox 1308 1984 1373 2007; x_wconf 96">JULY</span>
+<span class="ocrx_word" id="word_1_540" title="bbox 1390 1981 1449 2007; x_wconf 96">1676</span>
+</span>
+</p>
+</div>
+<div class="ocr_carea" id="block_1_10" title="bbox 190 2055 1448 2134">
+<p class="ocr_par" id="par_1_12" lang="eng" title="bbox 190 2055 1448 2134" xml:lang="eng">
+<span annotation="BODY" class="ocr_line" id="line_1_46" id_correction="nan" line="On the 4th of June I wrote letters to you by way of Stockholm and on the same date by way" line_correction="nan" title="bbox 192 2055 1448 2094; baseline -0.002 -7; x_size 34; x_descenders 7; x_ascenders 11">
+<span class="ocrx_word" id="word_1_541" title="bbox 192 2063 232 2087; x_wconf 96">On</span>
+<span class="ocrx_word" id="word_1_542" title="bbox 243 2060 282 2086; x_wconf 96">the</span>
+<span class="ocrx_word" id="word_1_543" title="bbox 291 2059 332 2091; x_wconf 95">4th</span>
+<span class="ocrx_word" id="word_1_544" title="bbox 344 2059 369 2085; x_wconf 85">of</span>
+<span class="ocrx_word" id="word_1_545" title="bbox 372 2062 434 2094; x_wconf 85">June</span>
+<span class="ocrx_word" id="word_1_546" title="bbox 445 2061 452 2084; x_wconf 94">I</span>
+<span class="ocrx_word" id="word_1_547" title="bbox 462 2067 540 2084; x_wconf 94">wrote</span>
+<span class="ocrx_word" id="word_1_548" title="bbox 550 2058 629 2084; x_wconf 92">letters</span>
+<span class="ocrx_word" id="word_1_549" title="bbox 639 2066 665 2083; x_wconf 96">to</span>
+<span class="ocrx_word" id="word_1_550" title="bbox 675 2067 726 2092; x_wconf 96">you</span>
+<span class="ocrx_word" id="word_1_551" title="bbox 736 2056 769 2091; x_wconf 96">by</span>
+<span class="ocrx_word" id="word_1_552" title="bbox 779 2066 836 2090; x_wconf 96">way</span>
+<span class="ocrx_word" id="word_1_553" title="bbox 846 2055 874 2082; x_wconf 96">of</span>
+<span class="ocrx_word" id="word_1_554" title="bbox 883 2055 1033 2081; x_wconf 96">Stockholm</span>
+<span class="ocrx_word" id="word_1_555" title="bbox 1045 2055 1094 2081; x_wconf 96">and</span>
+<span class="ocrx_word" id="word_1_556" title="bbox 1104 2066 1138 2081; x_wconf 96">on</span>
+<span class="ocrx_word" id="word_1_557" title="bbox 1150 2055 1192 2082; x_wconf 96">the</span>
+<span class="ocrx_word" id="word_1_558" title="bbox 1202 2066 1270 2082; x_wconf 96">same</span>
+<span class="ocrx_word" id="word_1_559" title="bbox 1280 2056 1337 2083; x_wconf 96">date</span>
+<span class="ocrx_word" id="word_1_560" title="bbox 1348 2056 1381 2092; x_wconf 96">by</span>
+<span class="ocrx_word" id="word_1_561" title="bbox 1392 2067 1448 2093; x_wconf 96">way</span>
+</span>
+<span annotation="BODY" class="ocr_line" id="line_1_47" id_correction="nan" line="of Gothenburg, which I hope have come to your hands and to which I refer. I have since" line_correction="nan" title="bbox 190 2095 1448 2134; baseline -0.002 -7; x_size 35; x_descenders 8; x_ascenders 12">
+<span class="ocrx_word" id="word_1_562" title="bbox 190 2100 221 2127; x_wconf 97">of</span>
+<span class="ocrx_word" id="word_1_563" title="bbox 229 2099 397 2134; x_wconf 96">Gothenburg,</span>
+<span class="ocrx_word" id="word_1_564" title="bbox 411 2099 491 2125; x_wconf 96">which</span>
+<span class="ocrx_word" id="word_1_565" title="bbox 506 2101 513 2125; x_wconf 96">I</span>
+<span class="ocrx_word" id="word_1_566" title="bbox 526 2098 591 2134; x_wconf 96">hope</span>
+<span class="ocrx_word" id="word_1_567" title="bbox 604 2098 665 2124; x_wconf 96">have</span>
+<span class="ocrx_word" id="word_1_568" title="bbox 678 2108 751 2124; x_wconf 96">come</span>
+<span class="ocrx_word" id="word_1_569" title="bbox 764 2106 790 2123; x_wconf 96">to</span>
+<span class="ocrx_word" id="word_1_570" title="bbox 804 2107 868 2131; x_wconf 96">your</span>
+<span class="ocrx_word" id="word_1_571" title="bbox 881 2095 959 2122; x_wconf 96">hands</span>
+<span class="ocrx_word" id="word_1_572" title="bbox 972 2095 1020 2122; x_wconf 96">and</span>
+<span class="ocrx_word" id="word_1_573" title="bbox 1035 2106 1061 2122; x_wconf 97">to</span>
+<span class="ocrx_word" id="word_1_574" title="bbox 1076 2095 1160 2122; x_wconf 96">which</span>
+<span class="ocrx_word" id="word_1_575" title="bbox 1165 2091 1177 2138; x_wconf 91">I</span>
+<span class="ocrx_word" id="word_1_576" title="bbox 1197 2096 1269 2123; x_wconf 91">refer.</span>
+<span class="ocrx_word" id="word_1_577" title="bbox 1285 2099 1292 2122; x_wconf 94">I</span>
+<span class="ocrx_word" id="word_1_578" title="bbox 1307 2096 1371 2123; x_wconf 97">have</span>
+<span class="ocrx_word" id="word_1_579" title="bbox 1383 2100 1448 2124; x_wconf 96">since</span>
+</span>
+</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,526 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="ocr-system" content="tesseract v5.1.0.20220510" />
+  <meta name="ocr-capabilities" content="ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf" />
+ </head>
+ <body>
+  <div class="ocr_page" id="page_1" title="image &quot;C:\Users\Jeroen\Documents\Universiteit\Stage\scan_input\IMG_2021_12_23_12_08_34L.jpg&quot;; bbox 0 0 1433 2393; ppageno 0; scan_res 340 340" page_number="124">
+   <div class="ocr_carea" id="block_1_1" title="bbox 216 134 1032 167">
+    <p class="ocr_par" id="par_1_1" lang="eng" title="bbox 216 134 1032 167" xml:lang="eng">
+     <span class="ocr_line" id="line_1_1" title="bbox 216 134 1032 167; baseline -0.006 -3; x_size 33; x_descenders 7; x_ascenders 9" line="None" annotation="HEADER">
+      <span class="ocrx_word" id="word_1_1" title="bbox 216 140 261 164; x_wconf 96">124</span>
+      <span class="ocrx_word" id="word_1_2" title="bbox 496 137 543 162; x_wconf 93">The</span>
+      <span class="ocrx_word" id="word_1_3" title="bbox 552 135 629 161; x_wconf 92">Jeake</span>
+      <span class="ocrx_word" id="word_1_4" title="bbox 640 135 736 167; x_wconf 96">Family</span>
+      <span class="ocrx_word" id="word_1_5" title="bbox 746 135 780 167; x_wconf 96">of</span>
+      <span class="ocrx_word" id="word_1_6" title="bbox 788 136 848 167; x_wconf 96">Rye,</span>
+      <span class="ocrx_word" id="word_1_7" title="bbox 881 134 1032 160; x_wconf 90">1640-1736</span>
+     </span>
+    </p>
+   </div>
+   <div class="ocr_carea" id="block_1_2" title="bbox 213 222 1340 292">
+    <p class="ocr_par" id="par_1_2" lang="eng" title="bbox 213 222 1340 292" xml:lang="eng">
+     <span class="ocr_line" id="line_1_2" title="bbox 213 222 1337 260; baseline -0.004 -6; x_size 34; x_descenders 8; x_ascenders 9" line="[96] Thomas Morris to Samuel Jeake junior, 30 September 1679. Original letter." line_correction="nan" annotation="TITLE">
+      <span class="ocrx_word" id="word_1_8" title="bbox 213 229 261 260; x_wconf 96">[96]</span>
+      <span class="ocrx_word" id="word_1_9" title="bbox 274 227 377 253; x_wconf 95">Thomas</span>
+      <span class="ocrx_word" id="word_1_10" title="bbox 387 227 478 251; x_wconf 96">Morris</span>
+      <span class="ocrx_word" id="word_1_11" title="bbox 488 232 511 250; x_wconf 96">to</span>
+      <span class="ocrx_word" id="word_1_12" title="bbox 521 224 622 250; x_wconf 92">Samuel</span>
+      <span class="ocrx_word" id="word_1_13" title="bbox 628 223 707 249; x_wconf 92">Jeake</span>
+      <span class="ocrx_word" id="word_1_14" title="bbox 709 224 802 255; x_wconf 96">junior,</span>
+      <span class="ocrx_word" id="word_1_15" title="bbox 833 223 850 248; x_wconf 96">30</span>
+      <span class="ocrx_word" id="word_1_16" title="bbox 861 222 1025 255; x_wconf 96">September</span>
+      <span class="ocrx_word" id="word_1_17" title="bbox 1035 222 1115 248; x_wconf 96">1679.</span>
+      <span class="ocrx_word" id="word_1_18" title="bbox 1133 222 1258 255; x_wconf 96">Original</span>
+      <span class="ocrx_word" id="word_1_19" title="bbox 1265 222 1337 249; x_wconf 96">letter.</span>
+     </span>
+     <span class="ocr_line" id="line_1_3" title="bbox 1110 268 1340 292; baseline 0.004 -1; x_size 30.240742; x_descenders 7.2407408; x_ascenders 8.0925922" line="ESRO FRE 4917" line_correction="nan" annotation="ID">
+      <span class="ocrx_word" id="word_1_20" title="bbox 1110 268 1199 291; x_wconf 92">ESRO</span>
+      <span class="ocrx_word" id="word_1_21" title="bbox 1210 269 1275 292; x_wconf 94">FRE</span>
+      <span class="ocrx_word" id="word_1_22" title="bbox 1283 268 1340 292; x_wconf 94">4917</span>
+     </span>
+    </p>
+   </div>
+   <div class="ocr_carea" id="block_1_3" title="bbox 195 347 1355 1702">
+    <p class="ocr_par" id="par_1_3" lang="eng" title="bbox 195 347 1355 1702" xml:lang="eng">
+     <span class="ocr_line" id="line_1_4" title="bbox 886 347 1342 386; baseline 0.004 -8; x_size 34; x_descenders 7; x_ascenders 10" line="London the 30&quot; Septem 1679" line_correction="nan" annotation="DATELINE">
+      <span class="ocrx_word" id="word_1_23" title="bbox 886 352 1014 379; x_wconf 96">London</span>
+      <span class="ocrx_word" id="word_1_24" title="bbox 1026 352 1075 378; x_wconf 96">the</span>
+      <span class="ocrx_word" id="word_1_25" title="bbox 1088 347 1143 379; x_wconf 61">30"</span>
+      <span class="ocrx_word" id="word_1_26" title="bbox 1156 353 1268 386; x_wconf 96">Septem</span>
+      <span class="ocrx_word" id="word_1_27" title="bbox 1282 353 1342 381; x_wconf 96">1679</span>
+     </span>
+     <span class="ocr_line" id="line_1_5" title="bbox 213 399 492 432; baseline -0.018 -4; x_size 32; x_descenders 6; x_ascenders 8" line="Sir &amp; Worthy Friend" line_correction="nan" annotation="SALUTATION">
+      <span class="ocrx_word" id="word_1_28" title="bbox 213 402 251 428; x_wconf 93">Sir</span>
+      <span class="ocrx_word" id="word_1_29" title="bbox 260 402 283 427; x_wconf 93">&amp;</span>
+      <span class="ocrx_word" id="word_1_30" title="bbox 294 400 393 432; x_wconf 96">Worthy</span>
+      <span class="ocrx_word" id="word_1_31" title="bbox 405 399 492 425; x_wconf 96">Friend</span>
+     </span>
+     <span class="ocr_line" id="line_1_6" title="bbox 213 434 1343 475; baseline -0.004 -3; x_size 34; x_descenders 7; x_ascenders 9" line="In answere to yours of the 27&quot; Instant, I am heartily sorry you are like to have" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_32" title="bbox 213 448 240 472; x_wconf 92">In</span>
+      <span class="ocrx_word" id="word_1_33" title="bbox 250 451 357 471; x_wconf 92">answere</span>
+      <span class="ocrx_word" id="word_1_34" title="bbox 366 448 392 469; x_wconf 96">to</span>
+      <span class="ocrx_word" id="word_1_35" title="bbox 401 450 474 475; x_wconf 95">yours</span>
+      <span class="ocrx_word" id="word_1_36" title="bbox 483 441 514 468; x_wconf 95">of</span>
+      <span class="ocrx_word" id="word_1_37" title="bbox 523 441 563 466; x_wconf 95">the</span>
+      <span class="ocrx_word" id="word_1_38" title="bbox 573 434 621 465; x_wconf 87">27"</span>
+      <span class="ocrx_word" id="word_1_39" title="bbox 632 440 742 468; x_wconf 95">Instant,</span>
+      <span class="ocrx_word" id="word_1_40" title="bbox 754 440 763 465; x_wconf 96">I</span>
+      <span class="ocrx_word" id="word_1_41" title="bbox 775 447 821 465; x_wconf 95">am</span>
+      <span class="ocrx_word" id="word_1_42" title="bbox 831 440 951 473; x_wconf 95">heartily</span>
+      <span class="ocrx_word" id="word_1_43" title="bbox 961 448 1045 473; x_wconf 96">sorry</span>
+      <span class="ocrx_word" id="word_1_44" title="bbox 1054 448 1114 473; x_wconf 96">you</span>
+      <span class="ocrx_word" id="word_1_45" title="bbox 1124 448 1172 467; x_wconf 94">are</span>
+      <span class="ocrx_word" id="word_1_46" title="bbox 1182 441 1236 468; x_wconf 94">like</span>
+      <span class="ocrx_word" id="word_1_47" title="bbox 1245 446 1274 468; x_wconf 96">to</span>
+      <span class="ocrx_word" id="word_1_48" title="bbox 1283 441 1343 468; x_wconf 96">have</span>
+     </span>
+     <span class="ocr_line" id="line_1_7" title="bbox 213 483 1344 523; baseline -0.004 -7; x_size 34; x_descenders 7; x_ascenders 9" line="any trouble, but if the man be but good that you delivered your mony to, you" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_49" title="bbox 213 498 260 523; x_wconf 96">any</span>
+      <span class="ocrx_word" id="word_1_50" title="bbox 270 488 372 515; x_wconf 96">trouble,</span>
+      <span class="ocrx_word" id="word_1_51" title="bbox 382 486 427 512; x_wconf 95">but</span>
+      <span class="ocrx_word" id="word_1_52" title="bbox 436 485 457 511; x_wconf 96">if</span>
+      <span class="ocrx_word" id="word_1_53" title="bbox 467 485 507 511; x_wconf 96">the</span>
+      <span class="ocrx_word" id="word_1_54" title="bbox 517 492 576 510; x_wconf 96">man</span>
+      <span class="ocrx_word" id="word_1_55" title="bbox 587 484 618 510; x_wconf 96">be</span>
+      <span class="ocrx_word" id="word_1_56" title="bbox 629 484 674 508; x_wconf 96">but</span>
+      <span class="ocrx_word" id="word_1_57" title="bbox 685 483 759 515; x_wconf 96">good</span>
+      <span class="ocrx_word" id="word_1_58" title="bbox 771 483 830 509; x_wconf 96">that</span>
+      <span class="ocrx_word" id="word_1_59" title="bbox 840 491 898 516; x_wconf 96">you</span>
+      <span class="ocrx_word" id="word_1_60" title="bbox 909 484 1054 510; x_wconf 96">delivered</span>
+      <span class="ocrx_word" id="word_1_61" title="bbox 1065 492 1140 517; x_wconf 96">your</span>
+      <span class="ocrx_word" id="word_1_62" title="bbox 1150 492 1238 518; x_wconf 96">mony</span>
+      <span class="ocrx_word" id="word_1_63" title="bbox 1248 490 1285 516; x_wconf 96">to,</span>
+      <span class="ocrx_word" id="word_1_64" title="bbox 1295 494 1344 519; x_wconf 97">you</span>
+     </span>
+     <span class="ocr_line" id="line_1_8" title="bbox 212 527 1345 564; baseline -0.003 -4; x_size 32; x_descenders 6; x_ascenders 8" line="will have the the loss, But your friend here ought to have had the Bill pro-" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_65" title="bbox 212 534 259 560; x_wconf 96">will</span>
+      <span class="ocrx_word" id="word_1_66" title="bbox 274 534 333 559; x_wconf 96">have</span>
+      <span class="ocrx_word" id="word_1_67" title="bbox 346 531 386 557; x_wconf 96">the</span>
+      <span class="ocrx_word" id="word_1_68" title="bbox 398 530 440 555; x_wconf 96">the</span>
+      <span class="ocrx_word" id="word_1_69" title="bbox 454 529 508 558; x_wconf 96">loss,</span>
+      <span class="ocrx_word" id="word_1_70" title="bbox 524 529 572 553; x_wconf 96">But</span>
+      <span class="ocrx_word" id="word_1_71" title="bbox 585 535 650 559; x_wconf 96">your</span>
+      <span class="ocrx_word" id="word_1_72" title="bbox 664 527 750 553; x_wconf 96">friend</span>
+      <span class="ocrx_word" id="word_1_73" title="bbox 765 527 829 552; x_wconf 96">here</span>
+      <span class="ocrx_word" id="word_1_74" title="bbox 844 527 936 560; x_wconf 96">ought</span>
+      <span class="ocrx_word" id="word_1_75" title="bbox 952 532 983 554; x_wconf 96">to</span>
+      <span class="ocrx_word" id="word_1_76" title="bbox 999 528 1071 554; x_wconf 96">have</span>
+      <span class="ocrx_word" id="word_1_77" title="bbox 1087 528 1146 554; x_wconf 96">had</span>
+      <span class="ocrx_word" id="word_1_78" title="bbox 1162 529 1210 555; x_wconf 96">the</span>
+      <span class="ocrx_word" id="word_1_79" title="bbox 1225 529 1275 556; x_wconf 93">Bill</span>
+      <span class="ocrx_word" id="word_1_80" title="bbox 1288 538 1345 564; x_wconf 93">pro-</span>
+     </span>
+     <span class="ocr_line" id="line_1_9" title="bbox 212 570 1346 606; baseline -0.004 -2; x_size 32; x_descenders 6; x_ascenders 8" line="tested for non acceptance, before he has return&#8217;d it to you; As the case now" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_81" title="bbox 212 577 290 604; x_wconf 96">tested</span>
+      <span class="ocrx_word" id="word_1_82" title="bbox 303 576 341 602; x_wconf 96">for</span>
+      <span class="ocrx_word" id="word_1_83" title="bbox 353 582 402 601; x_wconf 96">non</span>
+      <span class="ocrx_word" id="word_1_84" title="bbox 415 578 570 606; x_wconf 96">acceptance,</span>
+      <span class="ocrx_word" id="word_1_85" title="bbox 584 570 672 597; x_wconf 96">before</span>
+      <span class="ocrx_word" id="word_1_86" title="bbox 685 571 718 597; x_wconf 96">he</span>
+      <span class="ocrx_word" id="word_1_87" title="bbox 731 571 780 597; x_wconf 93">has</span>
+      <span class="ocrx_word" id="word_1_88" title="bbox 795 572 917 598; x_wconf 92">return&#8217;d</span>
+      <span class="ocrx_word" id="word_1_89" title="bbox 932 572 952 598; x_wconf 96">it</span>
+      <span class="ocrx_word" id="word_1_90" title="bbox 968 577 999 599; x_wconf 96">to</span>
+      <span class="ocrx_word" id="word_1_91" title="bbox 1013 580 1082 605; x_wconf 96">you;</span>
+      <span class="ocrx_word" id="word_1_92" title="bbox 1098 573 1140 600; x_wconf 96">As</span>
+      <span class="ocrx_word" id="word_1_93" title="bbox 1155 573 1202 600; x_wconf 96">the</span>
+      <span class="ocrx_word" id="word_1_94" title="bbox 1215 582 1277 600; x_wconf 96">case</span>
+      <span class="ocrx_word" id="word_1_95" title="bbox 1289 583 1346 601; x_wconf 96">now</span>
+     </span>
+     <span class="ocr_line" id="line_1_10" title="bbox 212 614 1346 652; baseline -0.003 -4; x_size 34; x_descenders 7; x_ascenders 8" line="stands, you must send up the bill immediately, &amp; gett it protested if the man" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_96" title="bbox 212 621 303 648; x_wconf 96">stands,</span>
+      <span class="ocrx_word" id="word_1_97" title="bbox 315 628 363 652; x_wconf 96">you</span>
+      <span class="ocrx_word" id="word_1_98" title="bbox 375 622 438 644; x_wconf 96">must</span>
+      <span class="ocrx_word" id="word_1_99" title="bbox 450 616 510 643; x_wconf 96">send</span>
+      <span class="ocrx_word" id="word_1_100" title="bbox 523 624 556 648; x_wconf 96">up</span>
+      <span class="ocrx_word" id="word_1_101" title="bbox 568 615 610 641; x_wconf 96">the</span>
+      <span class="ocrx_word" id="word_1_102" title="bbox 622 615 665 641; x_wconf 96">bill</span>
+      <span class="ocrx_word" id="word_1_103" title="bbox 679 614 870 648; x_wconf 92">immediately,</span>
+      <span class="ocrx_word" id="word_1_104" title="bbox 884 616 911 642; x_wconf 92">&amp;</span>
+      <span class="ocrx_word" id="word_1_105" title="bbox 924 620 983 649; x_wconf 95">gett</span>
+      <span class="ocrx_word" id="word_1_106" title="bbox 997 616 1018 642; x_wconf 96">it</span>
+      <span class="ocrx_word" id="word_1_107" title="bbox 1032 617 1182 650; x_wconf 96">protested</span>
+      <span class="ocrx_word" id="word_1_108" title="bbox 1195 617 1219 644; x_wconf 96">if</span>
+      <span class="ocrx_word" id="word_1_109" title="bbox 1230 618 1275 644; x_wconf 96">the</span>
+      <span class="ocrx_word" id="word_1_110" title="bbox 1286 627 1346 646; x_wconf 97">man</span>
+     </span>
+     <span class="ocr_line" id="line_1_11" title="bbox 212 659 1347 695; baseline -0.003 -2; x_size 33; x_descenders 6; x_ascenders 8" line="refuses still to accept it, if you please to send it to me or direct [words struck" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_111" title="bbox 212 666 303 693; x_wconf 96">refuses</span>
+      <span class="ocrx_word" id="word_1_112" title="bbox 314 663 360 690; x_wconf 96">still</span>
+      <span class="ocrx_word" id="word_1_113" title="bbox 372 669 397 688; x_wconf 96">to</span>
+      <span class="ocrx_word" id="word_1_114" title="bbox 408 665 493 693; x_wconf 96">accept</span>
+      <span class="ocrx_word" id="word_1_115" title="bbox 504 660 530 687; x_wconf 96">it,</span>
+      <span class="ocrx_word" id="word_1_116" title="bbox 542 659 563 685; x_wconf 96">if</span>
+      <span class="ocrx_word" id="word_1_117" title="bbox 573 667 624 692; x_wconf 96">you</span>
+      <span class="ocrx_word" id="word_1_118" title="bbox 636 659 725 692; x_wconf 96">please</span>
+      <span class="ocrx_word" id="word_1_119" title="bbox 736 664 765 685; x_wconf 97">to</span>
+      <span class="ocrx_word" id="word_1_120" title="bbox 777 660 846 685; x_wconf 96">send</span>
+      <span class="ocrx_word" id="word_1_121" title="bbox 859 660 879 686; x_wconf 96">it</span>
+      <span class="ocrx_word" id="word_1_122" title="bbox 892 666 923 686; x_wconf 96">to</span>
+      <span class="ocrx_word" id="word_1_123" title="bbox 936 669 983 686; x_wconf 95">me</span>
+      <span class="ocrx_word" id="word_1_124" title="bbox 996 669 1031 687; x_wconf 96">or</span>
+      <span class="ocrx_word" id="word_1_125" title="bbox 1042 660 1134 687; x_wconf 96">direct</span>
+      <span class="ocrx_word" id="word_1_126" title="bbox 1147 662 1249 695; x_wconf 96">[words</span>
+      <span class="ocrx_word" id="word_1_127" title="bbox 1261 663 1347 690; x_wconf 96">struck</span>
+     </span>
+     <span class="ocr_line" id="line_1_12" title="bbox 211 704 1346 743; baseline -0.003 -6; x_size 34; x_descenders 7; x_ascenders 9" line="out] your Cozin Mackley to come to me with it, I will gett it protested for you," line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_128" title="bbox 211 710 264 743; x_wconf 95">out]</span>
+      <span class="ocrx_word" id="word_1_129" title="bbox 273 716 334 742; x_wconf 93">your</span>
+      <span class="ocrx_word" id="word_1_130" title="bbox 342 706 420 733; x_wconf 92">Cozin</span>
+      <span class="ocrx_word" id="word_1_131" title="bbox 431 705 549 736; x_wconf 92">Mackley</span>
+      <span class="ocrx_word" id="word_1_132" title="bbox 559 710 585 730; x_wconf 96">to</span>
+      <span class="ocrx_word" id="word_1_133" title="bbox 594 711 669 729; x_wconf 96">come</span>
+      <span class="ocrx_word" id="word_1_134" title="bbox 679 707 708 729; x_wconf 96">to</span>
+      <span class="ocrx_word" id="word_1_135" title="bbox 718 712 761 729; x_wconf 96">me</span>
+      <span class="ocrx_word" id="word_1_136" title="bbox 771 704 838 730; x_wconf 95">with</span>
+      <span class="ocrx_word" id="word_1_137" title="bbox 848 704 877 732; x_wconf 95">it,</span>
+      <span class="ocrx_word" id="word_1_138" title="bbox 890 705 900 731; x_wconf 96">I</span>
+      <span class="ocrx_word" id="word_1_139" title="bbox 911 705 968 731; x_wconf 95">will</span>
+      <span class="ocrx_word" id="word_1_140" title="bbox 979 709 1040 738; x_wconf 96">gett</span>
+      <span class="ocrx_word" id="word_1_141" title="bbox 1050 705 1072 732; x_wconf 96">it</span>
+      <span class="ocrx_word" id="word_1_142" title="bbox 1081 707 1230 739; x_wconf 96">protested</span>
+      <span class="ocrx_word" id="word_1_143" title="bbox 1240 706 1282 734; x_wconf 96">for</span>
+      <span class="ocrx_word" id="word_1_144" title="bbox 1288 716 1346 740; x_wconf 96">you,</span>
+     </span>
+     <span class="ocr_line" id="line_1_13" title="bbox 211 747 1348 785; baseline -0.003 -4; x_size 34; x_descenders 7; x_ascenders 8" line="it must be without delay, and then that protest for non acceptance being sent" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_145" title="bbox 211 756 228 781; x_wconf 96">it</span>
+      <span class="ocrx_word" id="word_1_146" title="bbox 239 757 302 780; x_wconf 96">must</span>
+      <span class="ocrx_word" id="word_1_147" title="bbox 314 752 343 778; x_wconf 96">be</span>
+      <span class="ocrx_word" id="word_1_148" title="bbox 353 750 456 776; x_wconf 96">without</span>
+      <span class="ocrx_word" id="word_1_149" title="bbox 467 749 544 782; x_wconf 96">delay,</span>
+      <span class="ocrx_word" id="word_1_150" title="bbox 556 748 607 774; x_wconf 96">and</span>
+      <span class="ocrx_word" id="word_1_151" title="bbox 619 748 681 773; x_wconf 96">then</span>
+      <span class="ocrx_word" id="word_1_152" title="bbox 693 747 751 774; x_wconf 97">that</span>
+      <span class="ocrx_word" id="word_1_153" title="bbox 762 753 869 781; x_wconf 97">protest</span>
+      <span class="ocrx_word" id="word_1_154" title="bbox 882 748 928 775; x_wconf 96">for</span>
+      <span class="ocrx_word" id="word_1_155" title="bbox 939 757 1001 775; x_wconf 96">non</span>
+      <span class="ocrx_word" id="word_1_156" title="bbox 1014 754 1192 783; x_wconf 96">acceptance</span>
+      <span class="ocrx_word" id="word_1_157" title="bbox 1203 750 1285 785; x_wconf 96">being</span>
+      <span class="ocrx_word" id="word_1_158" title="bbox 1294 756 1348 779; x_wconf 96">sent</span>
+     </span>
+     <span class="ocr_line" id="line_1_14" title="bbox 211 792 1348 832; baseline 0.003 -11; x_size 32; x_descenders 6; x_ascenders 8" line="to you, you must goe with it to the man that endorsed the Bill to you, and" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_159" title="bbox 211 805 237 827; x_wconf 95">to</span>
+      <span class="ocrx_word" id="word_1_160" title="bbox 249 806 305 832; x_wconf 95">you,</span>
+      <span class="ocrx_word" id="word_1_161" title="bbox 318 804 365 830; x_wconf 96">you</span>
+      <span class="ocrx_word" id="word_1_162" title="bbox 379 798 442 820; x_wconf 93">must</span>
+      <span class="ocrx_word" id="word_1_163" title="bbox 456 801 503 826; x_wconf 93">goe</span>
+      <span class="ocrx_word" id="word_1_164" title="bbox 516 792 576 819; x_wconf 96">with</span>
+      <span class="ocrx_word" id="word_1_165" title="bbox 590 792 608 818; x_wconf 96">it</span>
+      <span class="ocrx_word" id="word_1_166" title="bbox 622 797 650 819; x_wconf 96">to</span>
+      <span class="ocrx_word" id="word_1_167" title="bbox 665 792 709 818; x_wconf 96">the</span>
+      <span class="ocrx_word" id="word_1_168" title="bbox 723 801 788 819; x_wconf 96">man</span>
+      <span class="ocrx_word" id="word_1_169" title="bbox 803 793 864 819; x_wconf 97">that</span>
+      <span class="ocrx_word" id="word_1_170" title="bbox 879 794 1027 820; x_wconf 95">endorsed</span>
+      <span class="ocrx_word" id="word_1_171" title="bbox 1042 794 1092 820; x_wconf 96">the</span>
+      <span class="ocrx_word" id="word_1_172" title="bbox 1108 795 1162 821; x_wconf 96">Bill</span>
+      <span class="ocrx_word" id="word_1_173" title="bbox 1177 800 1208 821; x_wconf 96">to</span>
+      <span class="ocrx_word" id="word_1_174" title="bbox 1222 804 1285 829; x_wconf 96">you,</span>
+      <span class="ocrx_word" id="word_1_175" title="bbox 1298 796 1348 823; x_wconf 96">and</span>
+     </span>
+     <span class="ocr_line" id="line_1_15" title="bbox 210 837 1348 872; baseline -0.004 -1; x_size 33; x_descenders 6; x_ascenders 9" line="demand either your mony or security from him which if he be honest &amp; will" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_176" title="bbox 210 842 316 871; x_wconf 96">demand</span>
+      <span class="ocrx_word" id="word_1_177" title="bbox 328 840 404 867; x_wconf 96">either</span>
+      <span class="ocrx_word" id="word_1_178" title="bbox 414 846 477 872; x_wconf 96">your</span>
+      <span class="ocrx_word" id="word_1_179" title="bbox 487 846 565 870; x_wconf 96">mony</span>
+      <span class="ocrx_word" id="word_1_180" title="bbox 577 845 607 863; x_wconf 96">or</span>
+      <span class="ocrx_word" id="word_1_181" title="bbox 618 837 732 870; x_wconf 96">security</span>
+      <span class="ocrx_word" id="word_1_182" title="bbox 745 837 818 864; x_wconf 96">from</span>
+      <span class="ocrx_word" id="word_1_183" title="bbox 831 838 890 864; x_wconf 96">him</span>
+      <span class="ocrx_word" id="word_1_184" title="bbox 903 838 1000 865; x_wconf 96">which</span>
+      <span class="ocrx_word" id="word_1_185" title="bbox 1013 838 1039 865; x_wconf 96">if</span>
+      <span class="ocrx_word" id="word_1_186" title="bbox 1051 839 1088 865; x_wconf 96">he</span>
+      <span class="ocrx_word" id="word_1_187" title="bbox 1102 839 1138 866; x_wconf 96">be</span>
+      <span class="ocrx_word" id="word_1_188" title="bbox 1150 839 1254 867; x_wconf 93">honest</span>
+      <span class="ocrx_word" id="word_1_189" title="bbox 1265 841 1291 867; x_wconf 93">&amp;</span>
+      <span class="ocrx_word" id="word_1_190" title="bbox 1301 840 1348 868; x_wconf 95">will</span>
+     </span>
+     <span class="ocr_line" id="line_1_16" title="bbox 210 882 1350 919; baseline -0.003 -4; x_size 34; x_descenders 7; x_ascenders 9" line="stand, he cannot refuse you, for no merchant howe ever refuses it upon the" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_191" title="bbox 210 887 289 916; x_wconf 95">stand,</span>
+      <span class="ocrx_word" id="word_1_192" title="bbox 303 886 332 912; x_wconf 95">he</span>
+      <span class="ocrx_word" id="word_1_193" title="bbox 344 887 436 911; x_wconf 96">cannot</span>
+      <span class="ocrx_word" id="word_1_194" title="bbox 449 882 530 909; x_wconf 97">refuse</span>
+      <span class="ocrx_word" id="word_1_195" title="bbox 542 890 602 915; x_wconf 96">you,</span>
+      <span class="ocrx_word" id="word_1_196" title="bbox 616 882 658 907; x_wconf 96">for</span>
+      <span class="ocrx_word" id="word_1_197" title="bbox 670 890 706 907; x_wconf 96">no</span>
+      <span class="ocrx_word" id="word_1_198" title="bbox 720 882 867 908; x_wconf 96">merchant</span>
+      <span class="ocrx_word" id="word_1_199" title="bbox 882 882 966 909; x_wconf 96">howe</span>
+      <span class="ocrx_word" id="word_1_200" title="bbox 980 892 1047 909; x_wconf 96">ever</span>
+      <span class="ocrx_word" id="word_1_201" title="bbox 1060 883 1172 910; x_wconf 96">refuses</span>
+      <span class="ocrx_word" id="word_1_202" title="bbox 1186 883 1207 911; x_wconf 96">it</span>
+      <span class="ocrx_word" id="word_1_203" title="bbox 1220 893 1297 919; x_wconf 96">upon</span>
+      <span class="ocrx_word" id="word_1_204" title="bbox 1309 886 1350 913; x_wconf 96">the</span>
+     </span>
+     <span class="ocr_line" id="line_1_17" title="bbox 209 926 1350 967; baseline -0.001 -8; x_size 33; x_descenders 6; x_ascenders 8" line="sight of any Protest, except he goes a one side and-who But if he should refuse" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_205" title="bbox 209 933 271 967; x_wconf 96">sight</span>
+      <span class="ocrx_word" id="word_1_206" title="bbox 281 931 310 957; x_wconf 95">of</span>
+      <span class="ocrx_word" id="word_1_207" title="bbox 318 938 365 962; x_wconf 95">any</span>
+      <span class="ocrx_word" id="word_1_208" title="bbox 374 929 476 958; x_wconf 94">Protest,</span>
+      <span class="ocrx_word" id="word_1_209" title="bbox 486 931 574 960; x_wconf 94">except</span>
+      <span class="ocrx_word" id="word_1_210" title="bbox 583 926 614 953; x_wconf 96">he</span>
+      <span class="ocrx_word" id="word_1_211" title="bbox 624 934 687 960; x_wconf 96">goes</span>
+      <span class="ocrx_word" id="word_1_212" title="bbox 697 935 712 953; x_wconf 91">a</span>
+      <span class="ocrx_word" id="word_1_213" title="bbox 722 935 776 953; x_wconf 96">one</span>
+      <span class="ocrx_word" id="word_1_214" title="bbox 787 927 846 953; x_wconf 93">side</span>
+      <span class="ocrx_word" id="word_1_215" title="bbox 854 928 995 954; x_wconf 86">and-who</span>
+      <span class="ocrx_word" id="word_1_216" title="bbox 1005 929 1064 954; x_wconf 96">But</span>
+      <span class="ocrx_word" id="word_1_217" title="bbox 1073 928 1099 954; x_wconf 96">if</span>
+      <span class="ocrx_word" id="word_1_218" title="bbox 1109 929 1146 955; x_wconf 96">he</span>
+      <span class="ocrx_word" id="word_1_219" title="bbox 1155 929 1260 957; x_wconf 96">should</span>
+      <span class="ocrx_word" id="word_1_220" title="bbox 1268 930 1350 958; x_wconf 96">refuse</span>
+     </span>
+     <span class="ocr_line" id="line_1_18" title="bbox 209 971 1351 1011; baseline -0.003 -7; x_size 35; x_descenders 8; x_ascenders 8" line="to give you Security I suppose you may either make an attachment or bring" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_221" title="bbox 209 983 234 1006; x_wconf 96">to</span>
+      <span class="ocrx_word" id="word_1_222" title="bbox 246 977 297 1011; x_wconf 97">give</span>
+      <span class="ocrx_word" id="word_1_223" title="bbox 308 983 356 1009; x_wconf 96">you</span>
+      <span class="ocrx_word" id="word_1_224" title="bbox 368 973 480 1006; x_wconf 96">Security</span>
+      <span class="ocrx_word" id="word_1_225" title="bbox 497 973 501 998; x_wconf 96">I</span>
+      <span class="ocrx_word" id="word_1_226" title="bbox 514 980 628 1006; x_wconf 96">suppose</span>
+      <span class="ocrx_word" id="word_1_227" title="bbox 641 980 694 1004; x_wconf 96">you</span>
+      <span class="ocrx_word" id="word_1_228" title="bbox 707 979 770 1005; x_wconf 96">may</span>
+      <span class="ocrx_word" id="word_1_229" title="bbox 782 971 872 998; x_wconf 96">either</span>
+      <span class="ocrx_word" id="word_1_230" title="bbox 885 972 972 999; x_wconf 96">make</span>
+      <span class="ocrx_word" id="word_1_231" title="bbox 986 980 1024 999; x_wconf 96">an</span>
+      <span class="ocrx_word" id="word_1_232" title="bbox 1039 973 1222 1001; x_wconf 95">attachment</span>
+      <span class="ocrx_word" id="word_1_233" title="bbox 1235 982 1267 1001; x_wconf 95">or</span>
+      <span class="ocrx_word" id="word_1_234" title="bbox 1278 974 1351 1009; x_wconf 96">bring</span>
+     </span>
+     <span class="ocr_line" id="line_1_19" title="bbox 208 1016 1351 1057; baseline -0.003 -7; x_size 33; x_descenders 6; x_ascenders 8" line="your action against him, But when the bill comes to be due, then if it be not" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_235" title="bbox 208 1031 268 1057; x_wconf 96">your</span>
+      <span class="ocrx_word" id="word_1_236" title="bbox 278 1020 360 1048; x_wconf 96">action</span>
+      <span class="ocrx_word" id="word_1_237" title="bbox 372 1018 468 1052; x_wconf 96">against</span>
+      <span class="ocrx_word" id="word_1_238" title="bbox 480 1017 541 1048; x_wconf 96">him,</span>
+      <span class="ocrx_word" id="word_1_239" title="bbox 554 1017 604 1043; x_wconf 96">But</span>
+      <span class="ocrx_word" id="word_1_240" title="bbox 616 1016 692 1042; x_wconf 96">when</span>
+      <span class="ocrx_word" id="word_1_241" title="bbox 705 1017 751 1043; x_wconf 96">the</span>
+      <span class="ocrx_word" id="word_1_242" title="bbox 763 1017 811 1043; x_wconf 96">bill</span>
+      <span class="ocrx_word" id="word_1_243" title="bbox 824 1025 923 1043; x_wconf 97">comes</span>
+      <span class="ocrx_word" id="word_1_244" title="bbox 936 1022 968 1044; x_wconf 97">to</span>
+      <span class="ocrx_word" id="word_1_245" title="bbox 982 1017 1019 1044; x_wconf 97">be</span>
+      <span class="ocrx_word" id="word_1_246" title="bbox 1032 1017 1099 1049; x_wconf 96">due,</span>
+      <span class="ocrx_word" id="word_1_247" title="bbox 1113 1017 1183 1045; x_wconf 96">then</span>
+      <span class="ocrx_word" id="word_1_248" title="bbox 1196 1017 1220 1045; x_wconf 95">if</span>
+      <span class="ocrx_word" id="word_1_249" title="bbox 1232 1019 1252 1046; x_wconf 96">it</span>
+      <span class="ocrx_word" id="word_1_250" title="bbox 1264 1020 1296 1046; x_wconf 96">be</span>
+      <span class="ocrx_word" id="word_1_251" title="bbox 1307 1026 1351 1048; x_wconf 96">not</span>
+     </span>
+     <span class="ocr_line" id="line_1_20" title="bbox 208 1061 1351 1103; baseline -0.003 -8; x_size 33; x_descenders 6; x_ascenders 8" line="paid, you must have another Protest made for non payment (&amp; that protest" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_252" title="bbox 208 1068 272 1103; x_wconf 96">paid,</span>
+      <span class="ocrx_word" id="word_1_253" title="bbox 285 1074 333 1101; x_wconf 96">you</span>
+      <span class="ocrx_word" id="word_1_254" title="bbox 345 1068 409 1091; x_wconf 96">must</span>
+      <span class="ocrx_word" id="word_1_255" title="bbox 422 1063 483 1089; x_wconf 96">have</span>
+      <span class="ocrx_word" id="word_1_256" title="bbox 495 1061 607 1089; x_wconf 96">another</span>
+      <span class="ocrx_word" id="word_1_257" title="bbox 619 1062 722 1088; x_wconf 96">Protest</span>
+      <span class="ocrx_word" id="word_1_258" title="bbox 736 1062 820 1088; x_wconf 95">made</span>
+      <span class="ocrx_word" id="word_1_259" title="bbox 834 1062 880 1089; x_wconf 95">for</span>
+      <span class="ocrx_word" id="word_1_260" title="bbox 893 1070 955 1089; x_wconf 96">non</span>
+      <span class="ocrx_word" id="word_1_261" title="bbox 970 1067 1112 1096; x_wconf 93">payment</span>
+      <span class="ocrx_word" id="word_1_262" title="bbox 1127 1064 1168 1096; x_wconf 92">(&amp;</span>
+      <span class="ocrx_word" id="word_1_263" title="bbox 1181 1064 1242 1091; x_wconf 96">that</span>
+      <span class="ocrx_word" id="word_1_264" title="bbox 1256 1070 1351 1098; x_wconf 96">protest</span>
+     </span>
+     <span class="ocr_line" id="line_1_21" title="bbox 207 1106 1351 1142; baseline -0.003 -1; x_size 35; x_descenders 7; x_ascenders 9" line="must be made in due time, on the last day, or also it will be insignificant) and" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_265" title="bbox 207 1117 270 1141; x_wconf 96">must</span>
+      <span class="ocrx_word" id="word_1_266" title="bbox 281 1112 309 1139; x_wconf 96">be</span>
+      <span class="ocrx_word" id="word_1_267" title="bbox 320 1110 392 1138; x_wconf 96">made</span>
+      <span class="ocrx_word" id="word_1_268" title="bbox 403 1109 426 1135; x_wconf 96">in</span>
+      <span class="ocrx_word" id="word_1_269" title="bbox 437 1109 486 1134; x_wconf 96">due</span>
+      <span class="ocrx_word" id="word_1_270" title="bbox 497 1107 564 1134; x_wconf 96">time,</span>
+      <span class="ocrx_word" id="word_1_271" title="bbox 576 1115 611 1133; x_wconf 96">on</span>
+      <span class="ocrx_word" id="word_1_272" title="bbox 623 1106 667 1133; x_wconf 96">the</span>
+      <span class="ocrx_word" id="word_1_273" title="bbox 678 1106 730 1133; x_wconf 96">last</span>
+      <span class="ocrx_word" id="word_1_274" title="bbox 741 1106 800 1140; x_wconf 96">day,</span>
+      <span class="ocrx_word" id="word_1_275" title="bbox 813 1116 847 1134; x_wconf 96">or</span>
+      <span class="ocrx_word" id="word_1_276" title="bbox 858 1107 921 1134; x_wconf 96">also</span>
+      <span class="ocrx_word" id="word_1_277" title="bbox 934 1107 956 1134; x_wconf 95">it</span>
+      <span class="ocrx_word" id="word_1_278" title="bbox 967 1107 1025 1134; x_wconf 96">will</span>
+      <span class="ocrx_word" id="word_1_279" title="bbox 1039 1107 1075 1135; x_wconf 96">be</span>
+      <span class="ocrx_word" id="word_1_280" title="bbox 1088 1107 1292 1142; x_wconf 96">insignificant)</span>
+      <span class="ocrx_word" id="word_1_281" title="bbox 1302 1110 1351 1137; x_wconf 96">and</span>
+     </span>
+     <span class="ocr_line" id="line_1_22" title="bbox 207 1152 1353 1191; baseline -0.003 -5; x_size 35; x_descenders 8; x_ascenders 9" line="then you may certainly maintaine an action against him, &amp; tis but letting your" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_282" title="bbox 207 1159 263 1186; x_wconf 95">then</span>
+      <span class="ocrx_word" id="word_1_283" title="bbox 272 1164 319 1191; x_wconf 95">you</span>
+      <span class="ocrx_word" id="word_1_284" title="bbox 328 1163 384 1189; x_wconf 96">may</span>
+      <span class="ocrx_word" id="word_1_285" title="bbox 393 1153 512 1187; x_wconf 93">certainly</span>
+      <span class="ocrx_word" id="word_1_286" title="bbox 522 1152 665 1180; x_wconf 92">maintaine</span>
+      <span class="ocrx_word" id="word_1_287" title="bbox 675 1160 711 1179; x_wconf 96">an</span>
+      <span class="ocrx_word" id="word_1_288" title="bbox 721 1152 816 1179; x_wconf 96">action</span>
+      <span class="ocrx_word" id="word_1_289" title="bbox 827 1152 941 1186; x_wconf 96">against</span>
+      <span class="ocrx_word" id="word_1_290" title="bbox 952 1153 1024 1185; x_wconf 93">him,</span>
+      <span class="ocrx_word" id="word_1_291" title="bbox 1036 1153 1065 1179; x_wconf 93">&amp;</span>
+      <span class="ocrx_word" id="word_1_292" title="bbox 1075 1153 1112 1180; x_wconf 96">tis</span>
+      <span class="ocrx_word" id="word_1_293" title="bbox 1123 1153 1176 1180; x_wconf 96">but</span>
+      <span class="ocrx_word" id="word_1_294" title="bbox 1186 1154 1283 1189; x_wconf 96">letting</span>
+      <span class="ocrx_word" id="word_1_295" title="bbox 1291 1163 1353 1189; x_wconf 96">your</span>
+     </span>
+     <span class="ocr_line" id="line_1_23" title="bbox 205 1198 1353 1232; baseline -0.003 -1; x_size 35; x_descenders 7; x_ascenders 9" line="first action fall, when you commence a new one against him. But if he bea" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_296" title="bbox 205 1205 255 1231; x_wconf 96">first</span>
+      <span class="ocrx_word" id="word_1_297" title="bbox 267 1201 349 1230; x_wconf 96">action</span>
+      <span class="ocrx_word" id="word_1_298" title="bbox 362 1199 412 1230; x_wconf 95">fall,</span>
+      <span class="ocrx_word" id="word_1_299" title="bbox 426 1199 497 1226; x_wconf 95">when</span>
+      <span class="ocrx_word" id="word_1_300" title="bbox 510 1207 560 1232; x_wconf 96">you</span>
+      <span class="ocrx_word" id="word_1_301" title="bbox 574 1205 732 1225; x_wconf 96">commence</span>
+      <span class="ocrx_word" id="word_1_302" title="bbox 745 1206 761 1224; x_wconf 96">a</span>
+      <span class="ocrx_word" id="word_1_303" title="bbox 776 1206 837 1224; x_wconf 96">new</span>
+      <span class="ocrx_word" id="word_1_304" title="bbox 852 1206 908 1225; x_wconf 96">one</span>
+      <span class="ocrx_word" id="word_1_305" title="bbox 923 1198 1041 1232; x_wconf 96">against</span>
+      <span class="ocrx_word" id="word_1_306" title="bbox 1055 1198 1127 1226; x_wconf 96">him.</span>
+      <span class="ocrx_word" id="word_1_307" title="bbox 1144 1199 1201 1226; x_wconf 96">But</span>
+      <span class="ocrx_word" id="word_1_308" title="bbox 1215 1199 1239 1226; x_wconf 96">if</span>
+      <span class="ocrx_word" id="word_1_309" title="bbox 1252 1200 1284 1227; x_wconf 95">he</span>
+      <span class="ocrx_word" id="word_1_310" title="bbox 1297 1200 1353 1228; x_wconf 95">bea</span>
+     </span>
+     <span class="ocr_line" id="line_1_24" title="bbox 204 1242 1353 1279; baseline -0.003 -2; x_size 36; x_descenders 8; x_ascenders 9" line="substantiall man &amp; no danger of his breaking or Running away, I think it" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_311" title="bbox 204 1247 358 1278; x_wconf 93">substantiall</span>
+      <span class="ocrx_word" id="word_1_312" title="bbox 372 1254 431 1273; x_wconf 93">man</span>
+      <span class="ocrx_word" id="word_1_313" title="bbox 446 1245 469 1272; x_wconf 93">&amp;</span>
+      <span class="ocrx_word" id="word_1_314" title="bbox 483 1253 518 1271; x_wconf 96">no</span>
+      <span class="ocrx_word" id="word_1_315" title="bbox 532 1244 632 1278; x_wconf 96">danger</span>
+      <span class="ocrx_word" id="word_1_316" title="bbox 646 1244 679 1270; x_wconf 96">of</span>
+      <span class="ocrx_word" id="word_1_317" title="bbox 694 1244 735 1270; x_wconf 96">his</span>
+      <span class="ocrx_word" id="word_1_318" title="bbox 752 1242 892 1277; x_wconf 96">breaking</span>
+      <span class="ocrx_word" id="word_1_319" title="bbox 907 1252 942 1270; x_wconf 95">or</span>
+      <span class="ocrx_word" id="word_1_320" title="bbox 959 1243 1103 1278; x_wconf 96">Running</span>
+      <span class="ocrx_word" id="word_1_321" title="bbox 1118 1253 1204 1279; x_wconf 96">away,</span>
+      <span class="ocrx_word" id="word_1_322" title="bbox 1212 1238 1224 1283; x_wconf 94">I</span>
+      <span class="ocrx_word" id="word_1_323" title="bbox 1248 1245 1323 1273; x_wconf 96">think</span>
+      <span class="ocrx_word" id="word_1_324" title="bbox 1337 1245 1353 1274; x_wconf 96">it</span>
+     </span>
+     <span class="ocr_line" id="line_1_25" title="bbox 204 1289 1354 1331; baseline -0.003 -8; x_size 34; x_descenders 6; x_ascenders 9" line="[words struck out] might be as well to bring your action against him for non" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_325" title="bbox 204 1294 291 1331; x_wconf 95">[words</span>
+      <span class="ocrx_word" id="word_1_326" title="bbox 302 1292 384 1321; x_wconf 96">struck</span>
+      <span class="ocrx_word" id="word_1_327" title="bbox 396 1291 450 1325; x_wconf 96">out]</span>
+      <span class="ocrx_word" id="word_1_328" title="bbox 461 1290 542 1324; x_wconf 96">might</span>
+      <span class="ocrx_word" id="word_1_329" title="bbox 555 1290 586 1317; x_wconf 96">be</span>
+      <span class="ocrx_word" id="word_1_330" title="bbox 597 1298 626 1317; x_wconf 96">as</span>
+      <span class="ocrx_word" id="word_1_331" title="bbox 638 1289 694 1316; x_wconf 96">well</span>
+      <span class="ocrx_word" id="word_1_332" title="bbox 709 1295 738 1316; x_wconf 96">to</span>
+      <span class="ocrx_word" id="word_1_333" title="bbox 751 1289 834 1323; x_wconf 96">bring</span>
+      <span class="ocrx_word" id="word_1_334" title="bbox 846 1297 920 1323; x_wconf 96">your</span>
+      <span class="ocrx_word" id="word_1_335" title="bbox 932 1289 1035 1317; x_wconf 96">action</span>
+      <span class="ocrx_word" id="word_1_336" title="bbox 1049 1289 1166 1324; x_wconf 96">against</span>
+      <span class="ocrx_word" id="word_1_337" title="bbox 1178 1290 1239 1318; x_wconf 96">him</span>
+      <span class="ocrx_word" id="word_1_338" title="bbox 1250 1291 1293 1319; x_wconf 95">for</span>
+      <span class="ocrx_word" id="word_1_339" title="bbox 1302 1300 1354 1320; x_wconf 95">non</span>
+     </span>
+     <span class="ocr_line" id="line_1_26" title="bbox 203 1335 1354 1376; baseline -0.003 -7; x_size 36; x_descenders 8; x_ascenders 9" line="Payment of the Bill, &amp; not before or to make an attachment, then if you can" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_340" title="bbox 203 1343 319 1376; x_wconf 96">Payment</span>
+      <span class="ocrx_word" id="word_1_341" title="bbox 330 1338 359 1366; x_wconf 96">of</span>
+      <span class="ocrx_word" id="word_1_342" title="bbox 369 1337 410 1365; x_wconf 95">the</span>
+      <span class="ocrx_word" id="word_1_343" title="bbox 422 1336 475 1368; x_wconf 93">Bill,</span>
+      <span class="ocrx_word" id="word_1_344" title="bbox 487 1336 512 1363; x_wconf 93">&amp;</span>
+      <span class="ocrx_word" id="word_1_345" title="bbox 522 1341 569 1363; x_wconf 96">not</span>
+      <span class="ocrx_word" id="word_1_346" title="bbox 580 1335 671 1362; x_wconf 96">before</span>
+      <span class="ocrx_word" id="word_1_347" title="bbox 682 1344 715 1362; x_wconf 96">or</span>
+      <span class="ocrx_word" id="word_1_348" title="bbox 726 1340 755 1362; x_wconf 96">to</span>
+      <span class="ocrx_word" id="word_1_349" title="bbox 768 1335 852 1362; x_wconf 96">make</span>
+      <span class="ocrx_word" id="word_1_350" title="bbox 864 1343 902 1362; x_wconf 96">an</span>
+      <span class="ocrx_word" id="word_1_351" title="bbox 916 1335 1114 1367; x_wconf 96">attachment,</span>
+      <span class="ocrx_word" id="word_1_352" title="bbox 1127 1335 1197 1363; x_wconf 96">then</span>
+      <span class="ocrx_word" id="word_1_353" title="bbox 1210 1335 1234 1363; x_wconf 96">if</span>
+      <span class="ocrx_word" id="word_1_354" title="bbox 1245 1344 1298 1371; x_wconf 96">you</span>
+      <span class="ocrx_word" id="word_1_355" title="bbox 1308 1345 1354 1365; x_wconf 96">can</span>
+     </span>
+     <span class="ocr_line" id="line_1_27" title="bbox 201 1381 1354 1419; baseline -0.004 -4; x_size 36; x_descenders 8; x_ascenders 9" line="as well have opportunity then to doe it. In this I think you will find a particu-" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_356" title="bbox 201 1396 228 1416; x_wconf 96">as</span>
+      <span class="ocrx_word" id="word_1_357" title="bbox 237 1386 289 1415; x_wconf 96">well</span>
+      <span class="ocrx_word" id="word_1_358" title="bbox 299 1386 358 1413; x_wconf 96">have</span>
+      <span class="ocrx_word" id="word_1_359" title="bbox 368 1382 536 1419; x_wconf 96">opportunity</span>
+      <span class="ocrx_word" id="word_1_360" title="bbox 547 1382 607 1410; x_wconf 97">then</span>
+      <span class="ocrx_word" id="word_1_361" title="bbox 620 1387 648 1409; x_wconf 96">to</span>
+      <span class="ocrx_word" id="word_1_362" title="bbox 659 1382 712 1409; x_wconf 96">doe</span>
+      <span class="ocrx_word" id="word_1_363" title="bbox 724 1381 752 1409; x_wconf 96">it.</span>
+      <span class="ocrx_word" id="word_1_364" title="bbox 766 1382 796 1408; x_wconf 96">In</span>
+      <span class="ocrx_word" id="word_1_365" title="bbox 809 1381 866 1408; x_wconf 96">this</span>
+      <span class="ocrx_word" id="word_1_366" title="bbox 879 1382 888 1408; x_wconf 96">I</span>
+      <span class="ocrx_word" id="word_1_367" title="bbox 902 1381 989 1408; x_wconf 96">think</span>
+      <span class="ocrx_word" id="word_1_368" title="bbox 1001 1390 1061 1416; x_wconf 96">you</span>
+      <span class="ocrx_word" id="word_1_369" title="bbox 1073 1381 1131 1408; x_wconf 92">will</span>
+      <span class="ocrx_word" id="word_1_370" title="bbox 1144 1382 1205 1409; x_wconf 96">find</span>
+      <span class="ocrx_word" id="word_1_371" title="bbox 1216 1391 1233 1409; x_wconf 93">a</span>
+      <span class="ocrx_word" id="word_1_372" title="bbox 1244 1382 1354 1418; x_wconf 89">particu-</span>
+     </span>
+     <span class="ocr_line" id="line_1_28" title="bbox 200 1427 1355 1464; baseline -0.004 -2; x_size 36; x_descenders 8; x_ascenders 9" line="lar answere to all your Queries, and it is the best advise I can at present give" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_373" title="bbox 200 1434 237 1462; x_wconf 81">lar</span>
+      <span class="ocrx_word" id="word_1_374" title="bbox 247 1439 353 1460; x_wconf 91">answere</span>
+      <span class="ocrx_word" id="word_1_375" title="bbox 364 1434 390 1458; x_wconf 96">to</span>
+      <span class="ocrx_word" id="word_1_376" title="bbox 402 1429 433 1457; x_wconf 95">all</span>
+      <span class="ocrx_word" id="word_1_377" title="bbox 445 1437 509 1464; x_wconf 96">your</span>
+      <span class="ocrx_word" id="word_1_378" title="bbox 520 1428 636 1462; x_wconf 96">Queries,</span>
+      <span class="ocrx_word" id="word_1_379" title="bbox 650 1428 704 1455; x_wconf 96">and</span>
+      <span class="ocrx_word" id="word_1_380" title="bbox 718 1427 738 1455; x_wconf 96">it</span>
+      <span class="ocrx_word" id="word_1_381" title="bbox 752 1427 773 1455; x_wconf 96">is</span>
+      <span class="ocrx_word" id="word_1_382" title="bbox 787 1427 834 1455; x_wconf 96">the</span>
+      <span class="ocrx_word" id="word_1_383" title="bbox 848 1427 911 1455; x_wconf 96">best</span>
+      <span class="ocrx_word" id="word_1_384" title="bbox 925 1427 1027 1455; x_wconf 96">advise</span>
+      <span class="ocrx_word" id="word_1_385" title="bbox 1042 1428 1053 1455; x_wconf 95">I</span>
+      <span class="ocrx_word" id="word_1_386" title="bbox 1067 1436 1125 1455; x_wconf 96">can</span>
+      <span class="ocrx_word" id="word_1_387" title="bbox 1139 1432 1168 1455; x_wconf 96">at</span>
+      <span class="ocrx_word" id="word_1_388" title="bbox 1181 1433 1292 1463; x_wconf 96">present</span>
+      <span class="ocrx_word" id="word_1_389" title="bbox 1303 1429 1355 1464; x_wconf 96">give</span>
+     </span>
+     <span class="ocr_line" id="line_1_29" title="bbox 199 1473 1355 1517; baseline -0.003 -10; x_size 35; x_descenders 7; x_ascenders 10" line="you, &amp; if I can doe you any further service therein, you may freely command" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_390" title="bbox 199 1489 256 1517; x_wconf 93">you,</span>
+      <span class="ocrx_word" id="word_1_391" title="bbox 267 1480 290 1506; x_wconf 93">&amp;</span>
+      <span class="ocrx_word" id="word_1_392" title="bbox 300 1478 321 1505; x_wconf 96">if</span>
+      <span class="ocrx_word" id="word_1_393" title="bbox 331 1479 340 1504; x_wconf 88">I</span>
+      <span class="ocrx_word" id="word_1_394" title="bbox 351 1486 397 1504; x_wconf 88">can</span>
+      <span class="ocrx_word" id="word_1_395" title="bbox 407 1477 457 1504; x_wconf 95">doe</span>
+      <span class="ocrx_word" id="word_1_396" title="bbox 466 1484 517 1511; x_wconf 96">you</span>
+      <span class="ocrx_word" id="word_1_397" title="bbox 528 1483 578 1510; x_wconf 96">any</span>
+      <span class="ocrx_word" id="word_1_398" title="bbox 589 1475 693 1502; x_wconf 96">further</span>
+      <span class="ocrx_word" id="word_1_399" title="bbox 704 1474 808 1501; x_wconf 96">service</span>
+      <span class="ocrx_word" id="word_1_400" title="bbox 821 1473 943 1506; x_wconf 96">therein,</span>
+      <span class="ocrx_word" id="word_1_401" title="bbox 956 1483 1016 1509; x_wconf 96">you</span>
+      <span class="ocrx_word" id="word_1_402" title="bbox 1030 1483 1099 1508; x_wconf 96">may</span>
+      <span class="ocrx_word" id="word_1_403" title="bbox 1112 1473 1200 1509; x_wconf 96">freely</span>
+      <span class="ocrx_word" id="word_1_404" title="bbox 1212 1476 1355 1503; x_wconf 96">command</span>
+     </span>
+     <span class="ocr_line" id="line_1_30" title="bbox 198 1526 354 1555; baseline -0.019 0; x_size 34.709579; x_descenders 7.7095795; x_ascenders 7" line="me who am" line_correction="nan" annotation="BODY">
+      <span class="ocrx_word" id="word_1_405" title="bbox 198 1535 238 1555; x_wconf 96">me</span>
+      <span class="ocrx_word" id="word_1_406" title="bbox 247 1526 303 1554; x_wconf 96">who</span>
+      <span class="ocrx_word" id="word_1_407" title="bbox 313 1532 354 1552; x_wconf 96">am</span>
+     </span>
+     <span class="ocr_line" id="line_1_31" title="bbox 752 1566 1355 1602; baseline 0.003 -7; x_size 36; x_descenders 7; x_ascenders 9" line="Your assured loveing friend &amp; servant" line_correction="nan" annotation="SIGN-OFF">
+      <span class="ocrx_word" id="word_1_408" title="bbox 752 1568 830 1595; x_wconf 96">Your</span>
+      <span class="ocrx_word" id="word_1_409" title="bbox 841 1566 963 1595; x_wconf 93">assured</span>
+      <span class="ocrx_word" id="word_1_410" title="bbox 977 1567 1098 1602; x_wconf 90">loveing</span>
+      <span class="ocrx_word" id="word_1_411" title="bbox 1110 1566 1206 1595; x_wconf 93">friend</span>
+      <span class="ocrx_word" id="word_1_412" title="bbox 1218 1568 1245 1595; x_wconf 93">&amp;</span>
+      <span class="ocrx_word" id="word_1_413" title="bbox 1256 1574 1355 1597; x_wconf 96">servant</span>
+     </span>
+     <span class="ocr_line" id="line_1_32" title="bbox 752 1614 1013 1642; baseline 0 0; x_size 35.3241; x_descenders 7.3241005; x_ascenders 9" line="Thomas Morris" line_correction="nan" annotation="SENDER">
+      <span class="ocrx_word" id="word_1_414" title="bbox 752 1615 884 1642; x_wconf 96">Thomas</span>
+      <span class="ocrx_word" id="word_1_415" title="bbox 898 1614 1013 1642; x_wconf 95">Morris</span>
+     </span>
+     <span class="ocr_line" id="line_1_33" title="bbox 195 1662 724 1702; baseline -0.013 -6; x_size 36; x_descenders 7; x_ascenders 9" line="My Cordiall Respects to your Father." line_correction="nan" annotation="SIGN-OFF">
+      <span class="ocrx_word" id="word_1_416" title="bbox 195 1667 243 1702; x_wconf 93">My</span>
+      <span class="ocrx_word" id="word_1_417" title="bbox 252 1664 364 1694; x_wconf 92">Cordiall</span>
+      <span class="ocrx_word" id="word_1_418" title="bbox 375 1665 494 1699; x_wconf 97">Respects</span>
+      <span class="ocrx_word" id="word_1_419" title="bbox 505 1666 532 1691; x_wconf 96">to</span>
+      <span class="ocrx_word" id="word_1_420" title="bbox 543 1671 610 1698; x_wconf 96">your</span>
+      <span class="ocrx_word" id="word_1_421" title="bbox 621 1662 724 1690; x_wconf 96">Father.</span>
+     </span>
+    </p>
+   </div>
+   <div class="ocr_carea" id="block_1_4" title="bbox 192 1756 848 1791">
+    <p class="ocr_par" id="par_1_4" lang="eng" title="bbox 192 1756 848 1791" xml:lang="eng">
+     <span class="ocr_line" id="line_1_34" title="bbox 192 1756 848 1791; baseline -0.009 -1; x_size 37; x_descenders 8; x_ascenders 9" line="To Mr Samuel Jeake Junior Merchant in Rye" line_correction="nan" annotation="ADDRESSLINE">
+      <span class="ocrx_word" id="word_1_422" title="bbox 192 1762 227 1790; x_wconf 96">To</span>
+      <span class="ocrx_word" id="word_1_423" title="bbox 238 1761 282 1789; x_wconf 96">Mr</span>
+      <span class="ocrx_word" id="word_1_424" title="bbox 291 1758 390 1788; x_wconf 93">Samuel</span>
+      <span class="ocrx_word" id="word_1_425" title="bbox 401 1758 476 1787; x_wconf 92">Jeake</span>
+      <span class="ocrx_word" id="word_1_426" title="bbox 485 1757 577 1786; x_wconf 96">Junior</span>
+      <span class="ocrx_word" id="word_1_427" title="bbox 588 1757 735 1785; x_wconf 96">Merchant</span>
+      <span class="ocrx_word" id="word_1_428" title="bbox 748 1756 775 1784; x_wconf 96">in</span>
+      <span class="ocrx_word" id="word_1_429" title="bbox 788 1757 848 1791; x_wconf 96">Rye</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
