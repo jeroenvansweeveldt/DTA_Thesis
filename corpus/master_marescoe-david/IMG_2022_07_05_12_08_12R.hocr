@@ -444,7 +444,7 @@
 </div>
 <div class="ocr_carea" id="block_1_6" title="bbox 149 1273 1407 1712">
 <p class="ocr_par" id="par_1_8" lang="eng" title="bbox 150 1273 1401 1350" xml:lang="eng">
-<span annotation="BODY" class="ocr_line" id="line_1_29" id_correction="nan" line="Ihave received your letter of the roth past with the sale-account of the iron which was sent" line_correction="I have received your letter of the roth past with the sale-account of the iron which was sent" title="bbox 151 1273 1401 1309; baseline 0.002 -10; x_size 35; x_descenders 9; x_ascenders 11">
+<span annotation="BODY" class="ocr_line" id="line_1_29" id_correction="nan" line="Ihave received your letter of the roth past with the sale-account of the iron which was sent" line_correction="I have received your letter of the 10th past with the sale-account of the iron which was sent" title="bbox 151 1273 1401 1309; baseline 0.002 -10; x_size 35; x_descenders 9; x_ascenders 11">
 <span class="ocrx_word" id="word_1_358" title="bbox 151 1274 231 1299; x_wconf 73">Ihave</span>
 <span class="ocrx_word" id="word_1_359" title="bbox 242 1274 354 1299; x_wconf 96">received</span>
 <span class="ocrx_word" id="word_1_360" title="bbox 366 1283 430 1308; x_wconf 96">your</span>

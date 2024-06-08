@@ -552,7 +552,7 @@
 <span class="ocrx_word" id="word_1_476" title="bbox 1233 1260 1289 1275; x_wconf 96">now</span>
 <span class="ocrx_word" id="word_1_477" title="bbox 1297 1250 1368 1285; x_wconf 96">being</span>
 </span>
-<span annotation="BODY" class="ocr_line" id="line_1_29" id_correction="nan" line="chartered will be leaving about the sth or roth of April, and they could be in the Baltic by" line_correction="nan" title="bbox 143 1289 1369 1326; baseline -0.002 -7; x_size 34; x_descenders 8; x_ascenders 10">
+<span annotation="BODY" class="ocr_line" id="line_1_29" id_correction="nan" line="chartered will be leaving about the sth or roth of April, and they could be in the Baltic by" line_correction="chartered will be leaving about the 5th or 10th of April, and they could be in the Baltic by" title="bbox 143 1289 1369 1326; baseline -0.002 -7; x_size 34; x_descenders 8; x_ascenders 10">
 <span class="ocrx_word" id="word_1_478" title="bbox 143 1294 268 1319; x_wconf 96">chartered</span>
 <span class="ocrx_word" id="word_1_479" title="bbox 281 1293 332 1318; x_wconf 96">will</span>
 <span class="ocrx_word" id="word_1_480" title="bbox 344 1293 374 1318; x_wconf 97">be</span>

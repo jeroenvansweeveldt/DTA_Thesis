@@ -293,7 +293,7 @@
 </div>
 <div class="ocr_carea" id="block_1_8" title="bbox 129 998 1367 1752">
 <p class="ocr_par" id="par_1_11" lang="eng" title="bbox 129 998 1367 1554" xml:lang="eng">
-<span annotation="BODY" class="ocr_line" id="line_1_23" id_correction="nan" line="We find ourselves with three of your letters of the 12th and roth of April and 3rd of May. In" line_correction="nan" title="bbox 131 998 1359 1035; baseline -0.007 -4; x_size 34; x_descenders 8; x_ascenders 11">
+<span annotation="BODY" class="ocr_line" id="line_1_23" id_correction="nan" line="We find ourselves with three of your letters of the 12th and roth of April and 3rd of May. In" line_correction="We find ourselves with three of your letters of the 12th and 19th of April and 3rd of May. In" title="bbox 131 998 1359 1035; baseline -0.007 -4; x_size 34; x_descenders 8; x_ascenders 11">
 <span class="ocrx_word" id="word_1_209" title="bbox 131 1009 177 1031; x_wconf 96">We</span>
 <span class="ocrx_word" id="word_1_210" title="bbox 187 1006 239 1031; x_wconf 96">find</span>
 <span class="ocrx_word" id="word_1_211" title="bbox 249 1004 374 1031; x_wconf 96">ourselves</span>

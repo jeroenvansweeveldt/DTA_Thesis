@@ -242,7 +242,7 @@
 <span class="ocrx_word" id="word_1_158" title="bbox 459 887 485 902; x_wconf 95">to</span>
 <span class="ocrx_word" id="word_1_159" title="bbox 507 886 546 902; x_wconf 95">CM</span>
 </span>
-<span annotation="DATELINE" class="ocr_line" id="line_1_18" id_correction="nan" line="COVENT GARDEN PIAZZA, LONDON [undated]" line_correction="nan" title="bbox 164 913 1405 949; baseline -0.004 -5; x_size 30; x_descenders 5; x_ascenders 9">
+<span annotation="DATELINE" class="ocr_line" id="line_1_18" id_correction="nan" line="COVENT GARDEN PIAZZA, LONDON [undated]" line_correction="COVENT GARDEN PIAZZA, LONDON [UNDATED]" title="bbox 164 913 1405 949; baseline -0.004 -5; x_size 30; x_descenders 5; x_ascenders 9">
 <span class="ocrx_word" id="word_1_160" title="bbox 164 928 279 944; x_wconf 96">COVENT</span>
 <span class="ocrx_word" id="word_1_161" title="bbox 300 927 414 944; x_wconf 96">GARDEN</span>
 <span class="ocrx_word" id="word_1_162" title="bbox 437 926 547 945; x_wconf 96">PIAZZA,</span>

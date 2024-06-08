@@ -335,7 +335,7 @@
 </div>
 <div class="ocr_carea" id="block_1_6" title="bbox 219 1102 1494 1874">
 <p class="ocr_par" id="par_1_10" lang="eng" title="bbox 221 1102 1494 1465" xml:lang="eng">
-<span annotation="BODY" class="ocr_line" id="line_1_23" id_correction="nan" line="Your letters of the rsth and roth instant have been safely received, by which we see more" line_correction="nan" title="bbox 221 1102 1486 1141; baseline 0.006 -11; x_size 33; x_descenders 6; x_ascenders 11">
+<span annotation="BODY" class="ocr_line" id="line_1_23" id_correction="nan" line="Your letters of the rsth and roth instant have been safely received, by which we see more" line_correction="Your letters of the 15th and 19th instant have been safely received, by which we see more" title="bbox 221 1102 1486 1141; baseline 0.006 -11; x_size 33; x_descenders 6; x_ascenders 11">
 <span class="ocrx_word" id="word_1_254" title="bbox 221 1106 291 1130; x_wconf 96">Your</span>
 <span class="ocrx_word" id="word_1_255" title="bbox 302 1104 382 1130; x_wconf 96">letters</span>
 <span class="ocrx_word" id="word_1_256" title="bbox 397 1103 425 1129; x_wconf 96">of</span>

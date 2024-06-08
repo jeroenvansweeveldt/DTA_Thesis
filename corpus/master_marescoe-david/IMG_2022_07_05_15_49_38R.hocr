@@ -67,7 +67,7 @@
 </div>
 <div class="ocr_carea" id="block_1_7" title="bbox 155 441 1411 1632">
 <p class="ocr_par" id="par_1_6" lang="eng" title="bbox 161 441 1399 522" xml:lang="eng">
-<span annotation="BODY" class="ocr_line" id="line_1_9" id_correction="nan" line="My last letter to you was on the roth instant, in which I informed you that I had sold about" line_correction="nan" title="bbox 162 441 1399 480; baseline 0.003 -11; x_size 37; x_descenders 9; x_ascenders 11">
+<span annotation="BODY" class="ocr_line" id="line_1_9" id_correction="nan" line="My last letter to you was on the roth instant, in which I informed you that I had sold about" line_correction="My last letter to you was on the 19th instant, in which I informed you that I had sold about" title="bbox 162 441 1399 480; baseline 0.003 -11; x_size 37; x_descenders 9; x_ascenders 11">
 <span class="ocrx_word" id="word_1_24" title="bbox 162 445 212 478; x_wconf 95">My</span>
 <span class="ocrx_word" id="word_1_25" title="bbox 223 441 268 468; x_wconf 96">last</span>
 <span class="ocrx_word" id="word_1_26" title="bbox 280 441 353 468; x_wconf 96">letter</span>

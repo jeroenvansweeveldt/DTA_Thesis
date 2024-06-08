@@ -304,7 +304,7 @@
 <span class="ocrx_word" id="word_1_256" title="bbox 1277 724 1299 739; x_wconf 93">as</span>
 <span class="ocrx_word" id="word_1_257" title="bbox 1311 724 1332 748; x_wconf 93">p.</span>
 </span>
-<span annotation="BODY" class="ocr_line" id="line_1_15" id_correction="nan" line="margant and sent to London by Mr Gundry p. wagon Agust the roth 1676." line_correction="nan" title="bbox 123 753 1157 790; baseline -0.002 -9; x_size 35; x_descenders 9; x_ascenders 11">
+<span annotation="BODY" class="ocr_line" id="line_1_15" id_correction="nan" line="margant and sent to London by Mr Gundry p. wagon Agust the roth 1676." line_correction="margant and sent to London by Mr Gundry p. wagon Agust the 19th 1676." title="bbox 123 753 1157 790; baseline -0.002 -9; x_size 35; x_descenders 9; x_ascenders 11">
 <span class="ocrx_word" id="word_1_258" title="bbox 123 763 236 790; x_wconf 93">margant</span>
 <span class="ocrx_word" id="word_1_259" title="bbox 249 754 296 781; x_wconf 96">and</span>
 <span class="ocrx_word" id="word_1_260" title="bbox 310 762 362 780; x_wconf 96">sent</span>
