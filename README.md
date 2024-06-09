@@ -8,7 +8,7 @@ This repository is currently under reconstruction - due to a serious injury from
 ## Objective
 A case study on how references to the divine were used in the correspondence of English merchants from the seventeenth century, the thesis was embedded in the research project [Back to the Future: Future expectations in late medieval and early modern Europe, c.1400-c.1830](https://www.uantwerpen.be/en/projects/back-to-the-future/) conducted at the University of Antwerp. The temporal evolution of the manner in which the 'divine appeal', an instance in which the correspondent calls for divine assistance in their daily actions, was invoked in their correspondence could provide insight into one possible way secularisation shaped future thinking.
 
-_God among family, friends, and business partners_ used two corpora of letter collections, each from a different merchant family: one was the Jeake family of Rye, the other the Marescoe family, centered around Charles Marescoe, his widow Leonore Marescoe, and her second husband Jacob David. In order to analyse the corpora for instances of divine appeals, the letter collections were scanned and digitised using [Tesseract's OCR engine](https://github.com/tesseract-ocr/tesseract). The results were then processed into the necessary datasets used for querying the corpora for instances of divine appeals.
+_God among family, friends, and business partners_ used two corpora of letter collections, each from a different merchant family: one was the Jeake family of Rye[^1], the other the Marescoe family, centered around Charles Marescoe, his widow Leonore Marescoe, and her second husband Jacob David[^2]. In order to analyse the corpora for instances of divine appeals, the letter collections were scanned and digitised using [Tesseract's OCR engine](https://github.com/tesseract-ocr/tesseract). The results were then processed into the necessary datasets used for querying the corpora for instances of divine appeals.
 
 ## Structure
 The repository is structured as follows:
@@ -38,3 +38,6 @@ A brief overview of the scripts used to process the data. This overview is prese
 
 ## Disclaimer
 Due to copyright concerns, the scanned images that were used as input for Tesseract's OCR are omitted from this repository. No copyright infringements towards the curators of the letter collections are intended, hence I made sure the output files included in this repository contained the absolute minimum of their original content, although some trailing snippets of chapter notes preceding the letters are included, as well as the footnotes, remain.
+
+[^1]: Murphy, Anne Louise. 2018. _The Worlds of the Jeake Family of Rye, 1640–1736_. Oxford University Press.
+[^2]: Roseveare, Henry G. 1987. _Markets and merchants of the late seventeenth century: the Marescoe-David letters, 1668–1680_. Oxford University Press. 
