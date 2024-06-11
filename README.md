@@ -3,7 +3,7 @@ This repository is currently under reconstruction - due to a serious injury from
 
 + ~~New .hocr files representing the master corpora, consisting of reconciled Jeake and Marescoe-David annotations.~~ (done)
 + ~~Scripts for generating Jeake and Marescoe-David .json corpora.~~ (done)
-+ Analysis of Tesseract's ocr-output quality.
++ Analysis of Tesseract's OCR-output quality.
 
 ## Objective
 A case study on how references to the divine were used in the correspondence of English merchants from the seventeenth century, the thesis was embedded in the research project [Back to the Future: Future expectations in late medieval and early modern Europe, c.1400-c.1830](https://www.uantwerpen.be/en/projects/back-to-the-future/) conducted at the University of Antwerp. The temporal evolution of the manner in which the 'divine appeal', an instance in which the correspondent calls for divine assistance in their daily actions, was invoked in their correspondence could provide insight into one possible way secularisation shaped future thinking.
@@ -26,7 +26,7 @@ The repository is structured as follows:
 A brief overview of the scripts used to process the data. This overview is presented in order of execution during the workflow:
 
 + **tesseract_script:** a shell file (for Mac) and a batch file (for Windows) to run the OCR engine on the input image files.
-+ **utils:** helper functions to clean and finalise the corpora. Contains functions to normalise punctuation, correcting common spelling errors resulting from erronous OCR processing (mostly applicable to the Marescoe-David data, which had a relatively fine print and glossy paper), and to count the number of words of the individual letters.
++ **utils:** helper functions to clean and finalise the corpora. Contains functions to normalise punctuation, correcting common spelling errors resulting from erronous OCR processing (mostly applicable to the Marescoe-David data, which had a relatively fine print and glossy paper, contributing to the OCR engine's processing difficulties), and to count the number of words of the individual letters.
 + **map_filenames:** generates an Excel file that is used to map the page numbers to their respective scanned .hocr files (filenames). The page numbers form an important part of the metadata to be used on future tasks, since they help as sanity checks when needing to refer back to the original input (i.e. the printed books).
 + **build_lla_dataset:** using the data from the .hocr files and the dataset containing the page numbers mapped to their respective filenames, this script builds the base dataset for logical layout analysis.
 + **reconcile_hocr_csv:** reconciles the data from the annotated lla datasets with the .hocr output files, and saves them as the master files in the _corpus_ map.
@@ -38,7 +38,7 @@ A brief overview of the scripts used to process the data. This overview is prese
 + **map_query:** generates an Excel file that reconciles the number of divine appeal hits within each corpus (drawn from the final datasets) to the total number of letters in the corpus (drawn from the metadata datasets, as the final datasets exclude any letters omitting referrals to the divine), based on their letter identifier/serial number. The results can be used to calculate normalised frequencies of divine appeals in their respective corpora.
 
 ## Disclaimer
-Due to copyright concerns, the scanned images that were used as input for Tesseract's OCR are omitted from this repository. No copyright infringements towards the curators of the letter collections are intended, hence I made sure the output files included in this repository contained the absolute minimum of their original content, although some trailing snippets of chapter notes preceding the letters are included, as well as the footnotes, remain.
+Due to copyright concerns, the scanned images that were used as input for Tesseract's OCR are omitted from this repository. No copyright infringements towards the curators of the letter collections are intended, hence I made sure the output files included in this repository contained the absolute minimum of their original content, although some trailing snippets of chapter notes preceding the letters, as well as the footnotes, remain.
 
 [^1]: Murphy, Anne Louise. 2018. _The Worlds of the Jeake Family of Rye, 1640–1736_. Oxford University Press.
 [^2]: Roseveare, Henry G. 1987. _Markets and merchants of the late seventeenth century: the Marescoe-David letters, 1668–1680_. Oxford University Press. 
