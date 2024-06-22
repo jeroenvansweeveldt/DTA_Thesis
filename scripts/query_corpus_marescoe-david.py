@@ -23,7 +23,7 @@ def read_metadata(metadata_file):
             "addressee": line[23] if line[23] != "nan" else "",
             "sender-addressee_pair": line[37] if line[37] != "nan" else "",
             "date": line[15] if line[15] != "nan" else "",
-            "year": int(float(line[14])) if line[14] != "nan" and line[14].isnumeric() else "",
+            "year": int(float(line[14])) if line[14] != "nan" else "",
             "language": line[13] if line[13] != "nan" else "",
 			"gender_sender": line[28] if line [28] != "nan" else "",
 			"gender_addressee": line[29] if line [29] != "nan" else "",
