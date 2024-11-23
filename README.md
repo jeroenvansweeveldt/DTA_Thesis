@@ -3,7 +3,7 @@ This repository is currently under reconstruction - due to a serious injury from
 
 + ~~New .hocr files representing the master corpora, consisting of reconciled Jeake and Marescoe-David annotations.~~ (done)
 + ~~Scripts for generating Jeake and Marescoe-David .json corpora.~~ (done)
-+ Analysis of Tesseract's OCR-output quality.
++ ~~Analysis of Tesseract's OCR-output quality.~~ (mostly done, I want to do check the Levenshtein distance on words that deviate from the gold standard)
 
 ## Objective
 A case study on how references to the divine were used in the correspondence of English merchants from the seventeenth century, the thesis was embedded in the research project [Back to the Future: Future expectations in late medieval and early modern Europe, c.1400-c.1830](https://www.uantwerpen.be/en/projects/back-to-the-future/) conducted at the University of Antwerp. The temporal evolution of the manner in which the 'divine appeal', an instance in which the correspondent calls for divine assistance in their daily actions, was invoked in their correspondence could provide insight into one possible way secularisation shaped future thinking.
